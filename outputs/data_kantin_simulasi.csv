@@ -1,0 +1,1527 @@
+waktu_pesan,waktu_siap,menu,jumlah,antrean_di_depan,sumber_data
+2026-10-01 09:01:14,2026-10-01 09:02:50,Air Mineral Besar,1,0,simulasi
+2026-10-01 09:09:15,2026-10-01 09:12:22,Gohu,1,0,simulasi
+2026-10-01 09:14:57,2026-10-01 09:20:15,Nasi Goreng Telur,1,0,simulasi
+2026-10-01 09:19:16,2026-10-01 09:26:51,Pisang Goroho Stik,3,1,simulasi
+2026-10-01 09:33:28,2026-10-01 09:39:32,Pisang Goroho Tepung,1,0,simulasi
+2026-10-01 09:34:25,2026-10-01 09:38:39,Gohu,1,1,simulasi
+2026-10-01 09:53:03,2026-10-01 09:58:36,Mie Kuah Cakalang,1,0,simulasi
+2026-10-01 10:01:01,2026-10-01 10:09:16,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-01 10:01:14,2026-10-01 10:10:42,Mie Goreng Cakalang,1,1,simulasi
+2026-10-01 10:15:02,2026-10-01 10:21:43,Indomie Kuah Single,1,0,simulasi
+2026-10-01 10:36:01,2026-10-01 10:52:23,Mie Goreng Cakalang,4,0,simulasi
+2026-10-01 10:48:48,2026-10-01 10:52:01,Nasi Tempe Penyet,1,1,simulasi
+2026-10-01 10:49:01,2026-10-01 10:58:32,Nasi Tempe Penyet,2,2,simulasi
+2026-10-01 10:58:36,2026-10-01 11:02:11,Pisang Goroho Stik,1,0,simulasi
+2026-10-01 11:03:26,2026-10-01 11:12:39,Indomie Goreng Double,1,0,simulasi
+2026-10-01 11:03:44,2026-10-01 11:08:20,Nasi Goreng Telur,1,1,simulasi
+2026-10-01 11:15:25,2026-10-01 11:21:02,Indomie Goreng Single,1,0,simulasi
+2026-10-01 11:15:38,2026-10-01 11:24:17,Nasi Ayam Geprek,2,1,simulasi
+2026-10-01 11:15:45,2026-10-01 11:25:40,Nasi Campur Ikan,1,2,simulasi
+2026-10-01 11:23:25,2026-10-01 11:28:06,Nasi Ayam Geprek,2,2,simulasi
+2026-10-01 11:23:57,2026-10-01 11:26:29,Air Mineral Kecil,1,3,simulasi
+2026-10-01 11:27:29,2026-10-01 11:31:51,Nasi Ayam Geprek,1,1,simulasi
+2026-10-01 11:32:41,2026-10-01 11:33:49,Air Mineral Kecil,1,0,simulasi
+2026-10-01 11:41:20,2026-10-01 11:50:36,Nasi Goreng Ayam,1,0,simulasi
+2026-10-01 11:44:13,2026-10-01 11:46:51,Kolak Kacang Ijo,1,1,simulasi
+2026-10-01 11:44:34,2026-10-01 11:48:34,Gohu,1,2,simulasi
+2026-10-01 11:53:34,2026-10-01 12:00:19,Indomie Kuah Single,1,0,simulasi
+2026-10-01 11:59:37,2026-10-01 12:04:30,Nasi Ayam Geprek,1,1,simulasi
+2026-10-01 12:02:26,2026-10-01 12:11:11,Tinutuan & Miedal,2,1,simulasi
+2026-10-01 12:04:59,2026-10-01 12:12:53,Nasi Goreng Telur,2,1,simulasi
+2026-10-01 12:06:30,2026-10-01 12:16:20,Nasi Tempe Penyet,1,2,simulasi
+2026-10-01 12:06:35,2026-10-01 12:16:10,Pisang Goroho Stik,1,3,simulasi
+2026-10-01 12:09:28,2026-10-01 12:22:55,Tahu Isi,3,4,simulasi
+2026-10-01 12:11:08,2026-10-01 12:21:20,Nasi Goreng Ayam,1,5,simulasi
+2026-10-01 12:14:01,2026-10-01 12:25:16,Nasi Tempe Penyet,1,4,simulasi
+2026-10-01 12:14:25,2026-10-01 12:30:29,Nasi Goreng Cakalang,2,5,simulasi
+2026-10-01 12:18:21,2026-10-01 12:28:41,Es Cendeol,1,4,simulasi
+2026-10-01 12:18:42,2026-10-01 12:37:01,Nasi Goreng Cakalang,1,5,simulasi
+2026-10-01 12:20:10,2026-10-01 12:32:29,Air Mineral Besar,3,6,simulasi
+2026-10-01 12:21:11,2026-10-01 12:33:50,Gohu,1,7,simulasi
+2026-10-01 12:21:49,2026-10-01 12:43:49,Mie Kuah Cakalang,1,7,simulasi
+2026-10-01 12:22:19,2026-10-01 12:41:56,Nasi Campur Ikan,2,8,simulasi
+2026-10-01 12:22:25,2026-10-01 12:50:47,Tempe Goreng,2,9,simulasi
+2026-10-01 12:25:12,2026-10-01 12:49:55,Nasi Goreng Cakalang,1,9,simulasi
+2026-10-01 12:32:10,2026-10-01 12:53:25,Tinutuan & Miedal,3,7,simulasi
+2026-10-01 12:32:41,2026-10-01 12:56:57,Nasi Goreng Roa,1,7,simulasi
+2026-10-01 12:35:06,2026-10-01 13:03:46,Nasi Goreng Cakalang,1,7,simulasi
+2026-10-01 12:35:08,2026-10-01 12:59:17,Es Palu Butung,3,8,simulasi
+2026-10-01 12:37:48,2026-10-01 13:00:53,Air Mineral Sedang,1,8,simulasi
+2026-10-01 12:50:00,2026-10-01 13:03:39,Tempe Goreng,1,6,simulasi
+2026-10-01 12:50:35,2026-10-01 13:13:07,Nasi Goreng Roa,1,7,simulasi
+2026-10-01 12:51:25,2026-10-01 13:07:44,Pisang Spatu,1,7,simulasi
+2026-10-01 12:52:54,2026-10-01 13:18:10,Pisang Coklat Keju,3,8,simulasi
+2026-10-01 13:00:45,2026-10-01 13:23:31,Indomie Kuah Single,1,6,simulasi
+2026-10-01 13:02:51,2026-10-01 13:27:50,Mie Kuah Cakalang,1,6,simulasi
+2026-10-01 13:05:04,2026-10-01 13:34:09,Indomie Kuah Single,1,5,simulasi
+2026-10-01 13:11:42,2026-10-01 13:35:08,Tinutuan & Miedal,2,5,simulasi
+2026-10-01 13:36:05,2026-10-01 13:41:24,Tahu Isi,3,0,simulasi
+2026-10-01 13:37:02,2026-10-01 13:39:29,Es Cendeol,1,1,simulasi
+2026-10-01 14:47:01,2026-10-01 14:50:25,Es Palu Butung,1,0,simulasi
+2026-10-02 09:04:06,2026-10-02 09:06:57,Es Kepal,1,0,simulasi
+2026-10-02 09:38:03,2026-10-02 09:44:23,Pisang Spatu,2,0,simulasi
+2026-10-02 09:40:15,2026-10-02 09:51:03,Indomie Goreng Double,2,1,simulasi
+2026-10-02 10:14:53,2026-10-02 10:19:42,Es Kacang,2,0,simulasi
+2026-10-02 10:38:31,2026-10-02 10:40:44,Nasi Ayam Geprek,1,0,simulasi
+2026-10-02 10:44:11,2026-10-02 10:47:50,Gohu,3,0,simulasi
+2026-10-02 10:55:45,2026-10-02 11:02:52,Nasi Goreng Telur,1,0,simulasi
+2026-10-02 11:03:24,2026-10-02 11:11:54,Nasi Ayam Geprek,2,0,simulasi
+2026-10-02 11:07:01,2026-10-02 11:14:08,Tinutuan & Miedal,1,1,simulasi
+2026-10-02 11:11:05,2026-10-02 11:11:51,Air Mineral Kecil,1,2,simulasi
+2026-10-02 11:28:28,2026-10-02 11:33:13,Nasi Campur Ikan,1,0,simulasi
+2026-10-02 11:30:35,2026-10-02 11:39:11,Nasi Goreng Telur,1,1,simulasi
+2026-10-02 11:31:00,2026-10-02 11:33:30,Nasi Ayam Geprek,1,2,simulasi
+2026-10-02 11:32:22,2026-10-02 11:36:35,Kolak Kacang Ijo,1,3,simulasi
+2026-10-02 11:37:08,2026-10-02 11:40:06,Gohu,1,1,simulasi
+2026-10-02 11:37:29,2026-10-02 11:44:02,Indomie Kuah Single,1,2,simulasi
+2026-10-02 11:40:49,2026-10-02 11:47:24,Mie Kuah Cakalang,1,1,simulasi
+2026-10-02 11:43:37,2026-10-02 11:53:12,Nasi Goreng Roa,1,2,simulasi
+2026-10-02 11:46:42,2026-10-02 11:55:07,Mie Goreng Cakalang,1,2,simulasi
+2026-10-02 11:48:11,2026-10-02 11:54:30,Tempe Goreng,1,2,simulasi
+2026-10-02 11:51:53,2026-10-02 12:03:12,Pisang Goroho Tepung,3,3,simulasi
+2026-10-02 11:54:40,2026-10-02 11:55:49,Es Kepal,1,2,simulasi
+2026-10-02 11:54:44,2026-10-02 12:09:57,Indomie Goreng Double,3,3,simulasi
+2026-10-02 11:55:24,2026-10-02 12:08:06,Nasi Goreng Telur,2,3,simulasi
+2026-10-02 12:04:16,2026-10-02 12:14:03,Nasi Goreng Roa,1,2,simulasi
+2026-10-02 12:06:22,2026-10-02 12:12:25,Nasi Campur Ayam,1,3,simulasi
+2026-10-02 12:10:54,2026-10-02 12:21:10,Indomie Goreng Double,1,2,simulasi
+2026-10-02 12:11:28,2026-10-02 12:15:53,Nasi Campur Ikan,1,3,simulasi
+2026-10-02 12:17:10,2026-10-02 12:19:59,Es Palu Butung,1,1,simulasi
+2026-10-02 12:19:37,2026-10-02 12:26:19,Pisang Goroho Tepung,1,2,simulasi
+2026-10-02 12:20:29,2026-10-02 12:25:53,Mie Kuah Cakalang,1,2,simulasi
+2026-10-02 12:25:50,2026-10-02 12:29:39,Nasi Campur Ayam,1,2,simulasi
+2026-10-02 12:30:16,2026-10-02 12:33:30,Kolak Kacang Ijo,1,0,simulasi
+2026-10-02 12:51:05,2026-10-02 12:57:28,Nasi Tempe Penyet,1,0,simulasi
+2026-10-02 12:58:50,2026-10-02 13:03:45,Tahu Isi,1,0,simulasi
+2026-10-02 13:02:47,2026-10-02 13:08:09,Mie Goreng Cakalang,1,1,simulasi
+2026-10-02 13:03:01,2026-10-02 13:05:30,Pisang Spatu,1,2,simulasi
+2026-10-02 13:07:56,2026-10-02 13:13:26,Indomie Kuah Single,1,1,simulasi
+2026-10-02 13:09:02,2026-10-02 13:14:12,Es Kacang,2,1,simulasi
+2026-10-02 13:11:45,2026-10-02 13:14:13,Kolak Kacang Ijo,1,2,simulasi
+2026-10-02 13:12:52,2026-10-02 13:17:39,Pisang Goroho Tepung,1,3,simulasi
+2026-10-02 13:16:28,2026-10-02 13:26:03,Nasi Goreng Ayam,1,1,simulasi
+2026-10-02 14:12:17,2026-10-02 14:18:32,Tahu Isi,1,0,simulasi
+2026-10-02 14:55:24,2026-10-02 14:58:12,Es Kacang,1,0,simulasi
+2026-10-03 09:11:45,2026-10-03 09:17:54,Tahu Isi,1,0,simulasi
+2026-10-03 09:34:50,2026-10-03 09:38:11,Nasi Campur Ikan,1,0,simulasi
+2026-10-03 09:35:18,2026-10-03 09:38:26,Es Kacang,1,1,simulasi
+2026-10-03 10:01:00,2026-10-03 10:08:12,Mie Kuah Cakalang,2,0,simulasi
+2026-10-03 10:31:05,2026-10-03 10:37:35,Nasi Goreng Roa,1,0,simulasi
+2026-10-03 10:44:12,2026-10-03 10:48:48,Mie Kuah Cakalang,1,0,simulasi
+2026-10-03 10:46:26,2026-10-03 10:48:26,Nasi Campur Ikan,1,1,simulasi
+2026-10-03 11:10:29,2026-10-03 11:12:21,Es Kacang,1,0,simulasi
+2026-10-03 11:15:31,2026-10-03 11:20:14,Tempe Goreng,1,0,simulasi
+2026-10-03 11:17:50,2026-10-03 11:25:36,Mie Goreng Cakalang,1,1,simulasi
+2026-10-03 11:24:39,2026-10-03 11:25:38,Kolak Kacang Ijo,1,1,simulasi
+2026-10-03 11:36:25,2026-10-03 11:44:24,Indomie Kuah Single,2,0,simulasi
+2026-10-03 11:45:02,2026-10-03 11:53:05,Indomie Goreng Double,1,0,simulasi
+2026-10-03 11:50:45,2026-10-03 11:56:53,Nasi Goreng Cakalang,1,1,simulasi
+2026-10-03 11:55:09,2026-10-03 11:59:39,Nasi Campur Ikan,3,1,simulasi
+2026-10-03 11:55:20,2026-10-03 12:01:04,Tahu Isi,1,2,simulasi
+2026-10-03 11:59:51,2026-10-03 12:07:50,Indomie Kuah Single,1,1,simulasi
+2026-10-03 12:02:20,2026-10-03 12:08:05,Tinutuan & Miedal,1,1,simulasi
+2026-10-03 12:04:49,2026-10-03 12:15:33,Indomie Goreng Single,2,2,simulasi
+2026-10-03 12:05:44,2026-10-03 12:10:24,Pisang Spatu,1,3,simulasi
+2026-10-03 12:06:43,2026-10-03 12:11:38,Air Mineral Sedang,2,4,simulasi
+2026-10-03 12:10:06,2026-10-03 12:18:18,Indomie Goreng Double,1,3,simulasi
+2026-10-03 12:14:54,2026-10-03 12:19:51,Nasi Tempe Penyet,1,2,simulasi
+2026-10-03 12:14:57,2026-10-03 12:21:53,Tempe Goreng,3,3,simulasi
+2026-10-03 12:15:02,2026-10-03 12:26:07,Tahu Isi,2,4,simulasi
+2026-10-03 12:15:08,2026-10-03 12:32:23,Indomie Kuah Single,2,5,simulasi
+2026-10-03 12:15:29,2026-10-03 12:28:17,Es Palu Butung,2,6,simulasi
+2026-10-03 12:16:16,2026-10-03 12:30:35,Nasi Tempe Penyet,1,6,simulasi
+2026-10-03 12:18:19,2026-10-03 12:35:20,Pisang Spatu,1,6,simulasi
+2026-10-03 12:33:06,2026-10-03 12:39:19,Nasi Tempe Penyet,1,1,simulasi
+2026-10-03 12:33:35,2026-10-03 12:35:51,Air Mineral Besar,1,2,simulasi
+2026-10-03 12:34:50,2026-10-03 12:38:35,Nasi Ayam Geprek,1,3,simulasi
+2026-10-03 12:41:29,2026-10-03 12:42:32,Air Mineral Kecil,3,0,simulasi
+2026-10-03 12:45:18,2026-10-03 12:50:55,Pisang Goroho Stik,3,0,simulasi
+2026-10-03 12:50:25,2026-10-03 12:52:30,Tinutuan & Miedal,1,1,simulasi
+2026-10-03 12:52:19,2026-10-03 12:54:58,Nasi Campur Ayam,1,1,simulasi
+2026-10-03 12:55:52,2026-10-03 13:01:43,Indomie Goreng Double,1,0,simulasi
+2026-10-03 12:57:12,2026-10-03 13:00:45,Tahu Isi,1,1,simulasi
+2026-10-03 13:19:37,2026-10-03 13:25:27,Nasi Tempe Penyet,1,0,simulasi
+2026-10-03 13:21:07,2026-10-03 13:22:43,Gohu,1,1,simulasi
+2026-10-03 13:22:46,2026-10-03 13:24:40,Gohu,2,1,simulasi
+2026-10-03 13:32:43,2026-10-03 13:35:37,Es Kepal,1,0,simulasi
+2026-10-03 13:34:27,2026-10-03 13:42:24,Pisang Goroho Tepung,2,1,simulasi
+2026-10-03 14:12:06,2026-10-03 14:23:38,Mie Goreng Cakalang,3,0,simulasi
+2026-10-03 14:22:22,2026-10-03 14:27:32,Nasi Ayam Geprek,4,1,simulasi
+2026-10-04 09:13:59,2026-10-04 09:17:49,Indomie Goreng Single,1,0,simulasi
+2026-10-04 09:38:55,2026-10-04 09:44:11,Nasi Campur Ayam,2,0,simulasi
+2026-10-04 10:00:12,2026-10-04 10:03:44,Tahu Isi,1,0,simulasi
+2026-10-04 10:03:10,2026-10-04 10:04:54,Gohu,1,1,simulasi
+2026-10-04 10:16:39,2026-10-04 10:22:14,Pisang Goroho Tepung,1,0,simulasi
+2026-10-04 10:19:32,2026-10-04 10:24:16,Mie Goreng Cakalang,1,1,simulasi
+2026-10-04 10:44:46,2026-10-04 10:53:05,Nasi Goreng Telur,1,0,simulasi
+2026-10-04 10:52:01,2026-10-04 10:56:15,Nasi Ayam Geprek,1,1,simulasi
+2026-10-04 11:20:00,2026-10-04 11:20:56,Air Mineral Sedang,1,0,simulasi
+2026-10-04 11:22:44,2026-10-04 11:30:54,Nasi Goreng Ayam,1,0,simulasi
+2026-10-04 11:29:19,2026-10-04 11:32:25,Pisang Goroho Stik,1,1,simulasi
+2026-10-04 11:32:20,2026-10-04 11:37:05,Pisang Spatu,1,1,simulasi
+2026-10-04 11:33:19,2026-10-04 11:36:40,Kolak Kacang Ijo,1,1,simulasi
+2026-10-04 11:38:23,2026-10-04 11:42:37,Nasi Goreng Telur,1,0,simulasi
+2026-10-04 11:41:53,2026-10-04 11:47:20,Tempe Goreng,1,1,simulasi
+2026-10-04 11:42:31,2026-10-04 11:43:34,Air Mineral Besar,1,2,simulasi
+2026-10-04 11:46:16,2026-10-04 11:49:27,Es Cendeol,1,1,simulasi
+2026-10-04 11:47:51,2026-10-04 11:52:26,Mie Kuah Cakalang,1,1,simulasi
+2026-10-04 11:48:25,2026-10-04 11:54:11,Pisang Goroho Tepung,3,2,simulasi
+2026-10-04 11:52:26,2026-10-04 11:53:44,Air Mineral Sedang,2,1,simulasi
+2026-10-04 11:53:17,2026-10-04 11:59:02,Tahu Isi,3,2,simulasi
+2026-10-04 11:54:43,2026-10-04 11:56:36,Pisang Spatu,1,1,simulasi
+2026-10-04 11:55:50,2026-10-04 12:02:10,Tempe Goreng,1,2,simulasi
+2026-10-04 11:57:05,2026-10-04 12:00:50,Kolak Kacang Ijo,1,2,simulasi
+2026-10-04 12:01:00,2026-10-04 12:07:33,Nasi Tempe Penyet,3,1,simulasi
+2026-10-04 12:03:19,2026-10-04 12:08:37,Pisang Goroho Stik,1,1,simulasi
+2026-10-04 12:07:49,2026-10-04 12:11:48,Nasi Ayam Geprek,1,1,simulasi
+2026-10-04 12:09:43,2026-10-04 12:13:48,Gohu,2,1,simulasi
+2026-10-04 12:15:12,2026-10-04 12:19:20,Pisang Goroho Stik,2,0,simulasi
+2026-10-04 12:17:11,2026-10-04 12:20:16,Nasi Campur Ayam,1,1,simulasi
+2026-10-04 12:18:05,2026-10-04 12:28:21,Mie Goreng Cakalang,3,2,simulasi
+2026-10-04 12:18:30,2026-10-04 12:26:13,Nasi Tempe Penyet,1,3,simulasi
+2026-10-04 12:21:55,2026-10-04 12:34:33,Nasi Goreng Telur,3,2,simulasi
+2026-10-04 12:26:57,2026-10-04 12:30:35,Es Cendeol,1,2,simulasi
+2026-10-04 12:29:56,2026-10-04 12:38:17,Indomie Goreng Double,1,2,simulasi
+2026-10-04 12:40:10,2026-10-04 12:42:44,Kolak Kacang Ijo,1,0,simulasi
+2026-10-04 12:42:49,2026-10-04 12:47:53,Tempe Goreng,1,0,simulasi
+2026-10-04 12:43:48,2026-10-04 12:50:50,Tahu Isi,2,1,simulasi
+2026-10-04 12:52:24,2026-10-04 12:56:08,Es Cendeol,2,0,simulasi
+2026-10-04 12:54:59,2026-10-04 12:55:55,Es Kepal,1,1,simulasi
+2026-10-04 12:55:50,2026-10-04 12:59:39,Tinutuan & Miedal,1,2,simulasi
+2026-10-04 13:00:15,2026-10-04 13:06:10,Nasi Tempe Penyet,1,0,simulasi
+2026-10-04 13:12:11,2026-10-04 13:15:52,Tempe Goreng,1,0,simulasi
+2026-10-04 13:16:22,2026-10-04 13:20:57,Nasi Campur Ikan,1,0,simulasi
+2026-10-04 13:32:11,2026-10-04 13:33:53,Es Kacang,1,0,simulasi
+2026-10-04 13:41:31,2026-10-04 13:50:07,Mie Kuah Cakalang,1,0,simulasi
+2026-10-04 14:29:30,2026-10-04 14:34:18,Nasi Ayam Geprek,4,0,simulasi
+2026-10-04 14:48:45,2026-10-04 14:58:11,Indomie Kuah Double,3,0,simulasi
+2026-10-04 14:56:27,2026-10-04 15:02:24,Tahu Isi,2,1,simulasi
+2026-10-05 09:00:22,2026-10-05 09:02:06,Kolak Kacang Ijo,1,0,simulasi
+2026-10-05 09:02:47,2026-10-05 09:09:31,Indomie Kuah Single,1,0,simulasi
+2026-10-05 09:03:06,2026-10-05 09:06:46,Es Cendeol,1,1,simulasi
+2026-10-05 09:20:01,2026-10-05 09:20:27,Air Mineral Sedang,1,0,simulasi
+2026-10-05 09:49:51,2026-10-05 09:50:57,Es Cendeol,1,0,simulasi
+2026-10-05 10:04:48,2026-10-05 10:05:41,Air Mineral Kecil,1,0,simulasi
+2026-10-05 10:29:27,2026-10-05 10:40:51,Indomie Goreng Double,3,0,simulasi
+2026-10-05 10:29:42,2026-10-05 10:30:37,Air Mineral Besar,3,1,simulasi
+2026-10-05 10:40:41,2026-10-05 10:43:41,Es Kepal,1,1,simulasi
+2026-10-05 10:49:00,2026-10-05 10:50:21,Es Kepal,1,0,simulasi
+2026-10-05 11:07:02,2026-10-05 11:08:05,Es Kepal,1,0,simulasi
+2026-10-05 11:11:20,2026-10-05 11:19:05,Tempe Goreng,2,0,simulasi
+2026-10-05 11:16:43,2026-10-05 11:24:09,Indomie Goreng Double,1,1,simulasi
+2026-10-05 11:17:27,2026-10-05 11:23:23,Pisang Goroho Stik,1,2,simulasi
+2026-10-05 11:24:20,2026-10-05 11:29:53,Es Kepal,4,0,simulasi
+2026-10-05 11:25:07,2026-10-05 11:28:24,Es Palu Butung,1,1,simulasi
+2026-10-05 11:26:39,2026-10-05 11:30:33,Tahu Isi,1,2,simulasi
+2026-10-05 11:28:23,2026-10-05 11:32:56,Es Kepal,1,3,simulasi
+2026-10-05 11:29:37,2026-10-05 11:37:30,Indomie Goreng Double,1,3,simulasi
+2026-10-05 11:32:24,2026-10-05 11:33:55,Air Mineral Sedang,4,2,simulasi
+2026-10-05 11:37:28,2026-10-05 11:40:49,Es Cendeol,1,1,simulasi
+2026-10-05 11:38:48,2026-10-05 11:45:21,Nasi Campur Ayam,1,1,simulasi
+2026-10-05 11:39:49,2026-10-05 11:46:33,Pisang Goroho Stik,1,2,simulasi
+2026-10-05 11:43:06,2026-10-05 11:51:11,Pisang Goroho Stik,1,2,simulasi
+2026-10-05 11:45:13,2026-10-05 11:54:40,Indomie Kuah Double,4,3,simulasi
+2026-10-05 11:45:16,2026-10-05 11:54:51,Pisang Goroho Tepung,1,4,simulasi
+2026-10-05 11:45:34,2026-10-05 11:56:34,Es Palu Butung,1,4,simulasi
+2026-10-05 11:46:05,2026-10-05 11:56:56,Kolak Kacang Ijo,1,5,simulasi
+2026-10-05 11:51:43,2026-10-05 12:04:57,Indomie Kuah Single,3,4,simulasi
+2026-10-05 11:54:06,2026-10-05 12:03:23,Tempe Goreng,1,5,simulasi
+2026-10-05 11:54:41,2026-10-05 12:06:02,Tempe Goreng,2,5,simulasi
+2026-10-05 11:58:42,2026-10-05 12:08:41,Es Kacang,2,3,simulasi
+2026-10-05 11:59:07,2026-10-05 12:08:39,Nasi Tempe Penyet,1,4,simulasi
+2026-10-05 11:59:58,2026-10-05 12:10:54,Nasi Tempe Penyet,1,5,simulasi
+2026-10-05 12:02:22,2026-10-05 12:13:03,Nasi Goreng Telur,1,6,simulasi
+2026-10-05 12:08:58,2026-10-05 12:19:00,Indomie Kuah Double,2,2,simulasi
+2026-10-05 12:09:47,2026-10-05 12:15:30,Es Kepal,1,3,simulasi
+2026-10-05 12:13:15,2026-10-05 12:18:57,Pisang Goroho Tepung,2,2,simulasi
+2026-10-05 12:18:54,2026-10-05 12:26:37,Indomie Kuah Single,1,2,simulasi
+2026-10-05 12:23:05,2026-10-05 12:28:46,Pisang Goroho Tepung,1,1,simulasi
+2026-10-05 12:26:59,2026-10-05 12:33:28,Indomie Kuah Double,3,1,simulasi
+2026-10-05 12:32:24,2026-10-05 12:39:55,Indomie Goreng Single,1,1,simulasi
+2026-10-05 12:32:44,2026-10-05 12:34:37,Es Kepal,1,2,simulasi
+2026-10-05 12:33:43,2026-10-05 12:38:23,Tahu Isi,1,2,simulasi
+2026-10-05 12:37:27,2026-10-05 12:42:03,Es Palu Butung,1,2,simulasi
+2026-10-05 12:47:45,2026-10-05 12:57:20,Nasi Goreng Telur,1,0,simulasi
+2026-10-05 12:48:16,2026-10-05 12:56:29,Indomie Goreng Single,1,1,simulasi
+2026-10-05 12:48:48,2026-10-05 13:01:40,Nasi Campur Ayam,1,2,simulasi
+2026-10-05 12:52:36,2026-10-05 13:11:10,Indomie Kuah Single,3,3,simulasi
+2026-10-05 12:52:58,2026-10-05 13:08:23,Nasi Goreng Telur,3,4,simulasi
+2026-10-05 12:53:14,2026-10-05 13:14:06,Nasi Goreng Telur,1,5,simulasi
+2026-10-05 13:05:59,2026-10-05 13:15:29,Pisang Spatu,1,3,simulasi
+2026-10-05 13:11:28,2026-10-05 13:17:02,Gohu,1,2,simulasi
+2026-10-05 13:13:00,2026-10-05 13:19:01,Nasi Ayam Geprek,1,3,simulasi
+2026-10-05 13:22:13,2026-10-05 13:25:36,Pisang Coklat Keju,1,0,simulasi
+2026-10-05 13:38:23,2026-10-05 13:44:02,Nasi Goreng Roa,1,0,simulasi
+2026-10-05 13:55:17,2026-10-05 13:57:23,Es Palu Butung,1,0,simulasi
+2026-10-05 14:21:59,2026-10-05 14:27:56,Tempe Goreng,1,0,simulasi
+2026-10-05 14:28:41,2026-10-05 14:39:15,Indomie Kuah Single,2,0,simulasi
+2026-10-05 14:49:47,2026-10-05 14:53:40,Nasi Tempe Penyet,1,0,simulasi
+2026-10-06 10:06:06,2026-10-06 10:09:53,Indomie Kuah Double,1,0,simulasi
+2026-10-06 10:49:32,2026-10-06 10:55:02,Indomie Goreng Double,1,0,simulasi
+2026-10-06 10:57:26,2026-10-06 11:04:08,Indomie Kuah Double,2,0,simulasi
+2026-10-06 11:02:36,2026-10-06 11:09:07,Indomie Kuah Double,1,1,simulasi
+2026-10-06 11:02:40,2026-10-06 11:12:49,Mie Goreng Cakalang,1,2,simulasi
+2026-10-06 11:06:27,2026-10-06 11:11:23,Tempe Goreng,1,2,simulasi
+2026-10-06 11:22:29,2026-10-06 11:25:23,Es Kepal,1,0,simulasi
+2026-10-06 11:33:25,2026-10-06 11:34:15,Air Mineral Besar,1,0,simulasi
+2026-10-06 11:35:05,2026-10-06 11:41:36,Indomie Goreng Single,3,0,simulasi
+2026-10-06 11:36:33,2026-10-06 11:40:05,Es Palu Butung,2,1,simulasi
+2026-10-06 11:41:45,2026-10-06 11:46:24,Tahu Isi,2,0,simulasi
+2026-10-06 11:42:55,2026-10-06 11:46:36,Pisang Spatu,1,1,simulasi
+2026-10-06 11:48:13,2026-10-06 11:51:29,Tempe Goreng,1,0,simulasi
+2026-10-06 11:48:48,2026-10-06 11:51:15,Nasi Campur Ikan,1,1,simulasi
+2026-10-06 11:50:55,2026-10-06 11:57:05,Tempe Goreng,1,2,simulasi
+2026-10-06 11:53:57,2026-10-06 11:54:39,Air Mineral Besar,2,1,simulasi
+2026-10-06 11:55:09,2026-10-06 11:58:09,Tempe Goreng,1,1,simulasi
+2026-10-06 11:57:29,2026-10-06 12:04:13,Mie Kuah Cakalang,2,1,simulasi
+2026-10-06 11:59:44,2026-10-06 12:03:41,Nasi Goreng Cakalang,1,1,simulasi
+2026-10-06 12:06:48,2026-10-06 12:10:36,Tahu Isi,1,0,simulasi
+2026-10-06 12:13:25,2026-10-06 12:21:07,Tahu Isi,2,0,simulasi
+2026-10-06 12:13:58,2026-10-06 12:17:08,Pisang Coklat Keju,1,1,simulasi
+2026-10-06 12:14:35,2026-10-06 12:25:04,Mie Kuah Cakalang,1,2,simulasi
+2026-10-06 12:14:47,2026-10-06 12:21:54,Air Mineral Sedang,1,3,simulasi
+2026-10-06 12:19:19,2026-10-06 12:24:38,Es Kacang,3,3,simulasi
+2026-10-06 12:25:55,2026-10-06 12:26:18,Air Mineral Sedang,1,0,simulasi
+2026-10-06 12:29:13,2026-10-06 12:31:12,Gohu,1,0,simulasi
+2026-10-06 12:29:42,2026-10-06 12:35:28,Nasi Campur Ikan,2,1,simulasi
+2026-10-06 12:30:11,2026-10-06 12:34:32,Pisang Spatu,1,2,simulasi
+2026-10-06 12:31:10,2026-10-06 12:37:36,Nasi Tempe Penyet,1,3,simulasi
+2026-10-06 12:34:28,2026-10-06 12:39:45,Nasi Tempe Penyet,3,3,simulasi
+2026-10-06 12:42:47,2026-10-06 12:43:38,Air Mineral Sedang,1,0,simulasi
+2026-10-06 12:46:46,2026-10-06 12:48:29,Es Cendeol,1,0,simulasi
+2026-10-06 13:03:03,2026-10-06 13:08:40,Nasi Campur Ikan,1,0,simulasi
+2026-10-06 13:03:57,2026-10-06 13:10:03,Tinutuan & Miedal,3,1,simulasi
+2026-10-06 13:10:44,2026-10-06 13:11:06,Air Mineral Sedang,1,0,simulasi
+2026-10-06 13:13:54,2026-10-06 13:18:27,Nasi Goreng Ayam,2,0,simulasi
+2026-10-06 13:17:41,2026-10-06 13:23:03,Nasi Goreng Roa,1,1,simulasi
+2026-10-06 13:26:45,2026-10-06 13:31:29,Indomie Goreng Double,1,0,simulasi
+2026-10-06 13:40:07,2026-10-06 13:46:58,Mie Goreng Cakalang,1,0,simulasi
+2026-10-06 13:48:45,2026-10-06 13:54:03,Indomie Kuah Double,1,0,simulasi
+2026-10-06 13:49:56,2026-10-06 13:50:28,Air Mineral Kecil,1,1,simulasi
+2026-10-06 14:14:43,2026-10-06 14:23:16,Indomie Kuah Single,1,0,simulasi
+2026-10-06 14:22:09,2026-10-06 14:25:08,Es Cendeol,2,1,simulasi
+2026-10-06 14:22:46,2026-10-06 14:27:12,Nasi Goreng Telur,1,2,simulasi
+2026-10-07 09:07:34,2026-10-07 09:12:32,Tahu Isi,1,0,simulasi
+2026-10-07 09:10:02,2026-10-07 09:16:54,Indomie Kuah Double,1,1,simulasi
+2026-10-07 09:26:28,2026-10-07 09:31:02,Mie Kuah Cakalang,1,0,simulasi
+2026-10-07 09:27:59,2026-10-07 09:29:56,Es Cendeol,1,1,simulasi
+2026-10-07 10:45:13,2026-10-07 10:54:17,Indomie Kuah Single,1,0,simulasi
+2026-10-07 10:52:43,2026-10-07 10:58:10,Pisang Coklat Keju,1,1,simulasi
+2026-10-07 10:54:31,2026-10-07 11:01:09,Nasi Campur Ayam,1,1,simulasi
+2026-10-07 11:12:36,2026-10-07 11:19:04,Nasi Campur Ayam,2,0,simulasi
+2026-10-07 11:14:01,2026-10-07 11:15:53,Air Mineral Besar,2,1,simulasi
+2026-10-07 11:22:06,2026-10-07 11:27:59,Pisang Spatu,2,0,simulasi
+2026-10-07 11:24:04,2026-10-07 11:32:29,Nasi Goreng Cakalang,1,1,simulasi
+2026-10-07 11:24:40,2026-10-07 11:26:05,Air Mineral Kecil,1,2,simulasi
+2026-10-07 11:25:59,2026-10-07 11:32:56,Nasi Campur Ikan,1,3,simulasi
+2026-10-07 11:28:29,2026-10-07 11:34:54,Tinutuan & Miedal,1,2,simulasi
+2026-10-07 11:31:54,2026-10-07 11:40:09,Indomie Kuah Double,1,3,simulasi
+2026-10-07 11:33:11,2026-10-07 11:43:05,Tinutuan & Miedal,3,2,simulasi
+2026-10-07 11:38:19,2026-10-07 11:40:42,Pisang Spatu,1,2,simulasi
+2026-10-07 11:41:03,2026-10-07 11:49:51,Indomie Kuah Double,1,1,simulasi
+2026-10-07 11:41:26,2026-10-07 11:45:13,Tinutuan & Miedal,1,2,simulasi
+2026-10-07 11:48:10,2026-10-07 11:49:05,Air Mineral Besar,2,1,simulasi
+2026-10-07 11:49:09,2026-10-07 11:56:51,Indomie Kuah Single,1,1,simulasi
+2026-10-07 11:49:47,2026-10-07 11:55:15,Indomie Kuah Single,1,2,simulasi
+2026-10-07 11:54:21,2026-10-07 12:00:33,Nasi Goreng Roa,1,2,simulasi
+2026-10-07 11:59:11,2026-10-07 12:00:18,Air Mineral Kecil,1,1,simulasi
+2026-10-07 11:59:36,2026-10-07 12:06:13,Indomie Kuah Single,1,2,simulasi
+2026-10-07 12:03:44,2026-10-07 12:08:02,Indomie Goreng Single,1,1,simulasi
+2026-10-07 12:05:42,2026-10-07 12:06:34,Air Mineral Sedang,2,2,simulasi
+2026-10-07 12:06:23,2026-10-07 12:13:19,Pisang Goroho Tepung,1,2,simulasi
+2026-10-07 12:07:40,2026-10-07 12:13:37,Pisang Goroho Tepung,1,2,simulasi
+2026-10-07 12:09:47,2026-10-07 12:16:14,Indomie Goreng Double,1,2,simulasi
+2026-10-07 12:13:03,2026-10-07 12:19:00,Nasi Campur Ikan,1,3,simulasi
+2026-10-07 12:14:42,2026-10-07 12:18:47,Es Kepal,1,2,simulasi
+2026-10-07 12:20:37,2026-10-07 12:23:40,Es Kepal,1,0,simulasi
+2026-10-07 12:21:02,2026-10-07 12:25:00,Tempe Goreng,1,1,simulasi
+2026-10-07 12:28:18,2026-10-07 12:28:50,Air Mineral Sedang,1,0,simulasi
+2026-10-07 12:29:39,2026-10-07 12:31:59,Pisang Coklat Keju,1,0,simulasi
+2026-10-07 12:33:57,2026-10-07 12:41:07,Pisang Goroho Tepung,1,0,simulasi
+2026-10-07 12:46:07,2026-10-07 12:53:05,Nasi Goreng Ayam,1,0,simulasi
+2026-10-07 12:55:57,2026-10-07 13:03:32,Nasi Campur Ikan,2,0,simulasi
+2026-10-07 12:57:44,2026-10-07 13:03:58,Nasi Campur Ayam,2,1,simulasi
+2026-10-07 13:00:45,2026-10-07 13:06:16,Pisang Goroho Tepung,1,2,simulasi
+2026-10-07 13:03:45,2026-10-07 13:06:56,Tinutuan & Miedal,1,2,simulasi
+2026-10-07 13:12:35,2026-10-07 13:19:45,Mie Goreng Cakalang,1,0,simulasi
+2026-10-07 13:21:19,2026-10-07 13:25:15,Gohu,3,0,simulasi
+2026-10-07 13:28:00,2026-10-07 13:36:24,Mie Kuah Cakalang,1,0,simulasi
+2026-10-07 13:50:51,2026-10-07 13:53:44,Es Cendeol,2,0,simulasi
+2026-10-07 14:10:51,2026-10-07 14:18:20,Indomie Kuah Single,1,0,simulasi
+2026-10-07 14:12:48,2026-10-07 14:17:24,Nasi Goreng Roa,1,1,simulasi
+2026-10-08 09:13:10,2026-10-08 09:14:58,Es Cendeol,2,0,simulasi
+2026-10-08 09:46:25,2026-10-08 09:48:28,Es Kacang,1,0,simulasi
+2026-10-08 10:12:00,2026-10-08 10:20:07,Indomie Goreng Double,1,0,simulasi
+2026-10-08 10:19:16,2026-10-08 10:22:01,Tahu Isi,1,1,simulasi
+2026-10-08 10:33:30,2026-10-08 10:38:29,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-08 10:59:20,2026-10-08 11:06:01,Indomie Goreng Double,1,0,simulasi
+2026-10-08 11:04:45,2026-10-08 11:09:57,Tempe Goreng,1,1,simulasi
+2026-10-08 11:18:51,2026-10-08 11:21:57,Es Kacang,1,0,simulasi
+2026-10-08 11:19:29,2026-10-08 11:22:38,Es Kacang,1,1,simulasi
+2026-10-08 11:19:30,2026-10-08 11:23:30,Air Mineral Kecil,3,2,simulasi
+2026-10-08 11:26:55,2026-10-08 11:30:30,Nasi Ayam Geprek,2,0,simulasi
+2026-10-08 11:28:26,2026-10-08 11:29:51,Es Palu Butung,1,1,simulasi
+2026-10-08 11:30:59,2026-10-08 11:32:40,Es Kepal,2,0,simulasi
+2026-10-08 11:32:30,2026-10-08 11:36:26,Pisang Coklat Keju,1,1,simulasi
+2026-10-08 11:40:52,2026-10-08 11:45:10,Pisang Coklat Keju,1,0,simulasi
+2026-10-08 11:42:38,2026-10-08 11:47:15,Tahu Isi,2,1,simulasi
+2026-10-08 11:49:43,2026-10-08 11:54:03,Nasi Goreng Roa,1,0,simulasi
+2026-10-08 11:51:12,2026-10-08 11:56:55,Nasi Goreng Ayam,1,1,simulasi
+2026-10-08 11:51:45,2026-10-08 11:55:53,Kolak Kacang Ijo,3,2,simulasi
+2026-10-08 11:54:53,2026-10-08 11:57:02,Air Mineral Kecil,1,2,simulasi
+2026-10-08 11:59:28,2026-10-08 12:03:36,Tahu Isi,1,0,simulasi
+2026-10-08 12:01:26,2026-10-08 12:09:50,Mie Goreng Cakalang,1,1,simulasi
+2026-10-08 12:02:59,2026-10-08 12:09:52,Indomie Goreng Single,1,2,simulasi
+2026-10-08 12:04:30,2026-10-08 12:11:45,Nasi Campur Ayam,1,2,simulasi
+2026-10-08 12:08:18,2026-10-08 12:15:39,Indomie Kuah Double,1,3,simulasi
+2026-10-08 12:09:28,2026-10-08 12:14:15,Es Palu Butung,1,4,simulasi
+2026-10-08 12:12:46,2026-10-08 12:18:31,Pisang Goroho Tepung,1,2,simulasi
+2026-10-08 12:12:57,2026-10-08 12:18:35,Es Cendeol,1,3,simulasi
+2026-10-08 12:13:30,2026-10-08 12:23:50,Nasi Goreng Roa,1,4,simulasi
+2026-10-08 12:19:16,2026-10-08 12:24:27,Pisang Goroho Tepung,3,1,simulasi
+2026-10-08 12:22:56,2026-10-08 12:29:10,Pisang Goroho Tepung,1,2,simulasi
+2026-10-08 12:28:14,2026-10-08 12:31:27,Es Kepal,1,1,simulasi
+2026-10-08 12:29:09,2026-10-08 12:30:20,Gohu,1,2,simulasi
+2026-10-08 12:30:03,2026-10-08 12:39:10,Nasi Goreng Roa,2,2,simulasi
+2026-10-08 12:30:43,2026-10-08 12:38:37,Nasi Goreng Telur,1,2,simulasi
+2026-10-08 12:32:03,2026-10-08 12:44:56,Nasi Goreng Roa,1,2,simulasi
+2026-10-08 12:52:17,2026-10-08 12:58:25,Nasi Goreng Ayam,1,0,simulasi
+2026-10-08 12:57:20,2026-10-08 13:04:56,Indomie Goreng Single,1,1,simulasi
+2026-10-08 13:11:15,2026-10-08 13:13:29,Pisang Goroho Tepung,1,0,simulasi
+2026-10-08 13:13:53,2026-10-08 13:15:51,Gohu,1,0,simulasi
+2026-10-08 13:21:00,2026-10-08 13:23:47,Es Kepal,2,0,simulasi
+2026-10-08 13:23:49,2026-10-08 13:30:09,Indomie Kuah Double,1,0,simulasi
+2026-10-08 13:24:47,2026-10-08 13:34:44,Indomie Kuah Single,4,1,simulasi
+2026-10-08 13:36:08,2026-10-08 13:43:20,Nasi Goreng Roa,1,0,simulasi
+2026-10-08 13:37:37,2026-10-08 13:51:54,Nasi Goreng Telur,4,1,simulasi
+2026-10-08 14:01:29,2026-10-08 14:05:47,Indomie Kuah Single,1,0,simulasi
+2026-10-08 14:10:42,2026-10-08 14:13:47,Pisang Goroho Tepung,1,0,simulasi
+2026-10-08 14:11:35,2026-10-08 14:16:10,Pisang Coklat Keju,1,1,simulasi
+2026-10-08 14:16:12,2026-10-08 14:23:07,Pisang Goroho Tepung,2,0,simulasi
+2026-10-08 14:23:27,2026-10-08 14:24:48,Es Kacang,1,0,simulasi
+2026-10-08 14:26:11,2026-10-08 14:28:26,Kolak Kacang Ijo,1,0,simulasi
+2026-10-08 14:29:50,2026-10-08 14:32:15,Tahu Isi,1,0,simulasi
+2026-10-08 14:51:09,2026-10-08 14:59:42,Nasi Goreng Telur,2,0,simulasi
+2026-10-08 14:57:23,2026-10-08 15:05:42,Indomie Goreng Single,1,1,simulasi
+2026-10-09 09:08:30,2026-10-09 09:17:09,Indomie Goreng Double,1,0,simulasi
+2026-10-09 09:16:10,2026-10-09 09:22:17,Indomie Goreng Single,1,1,simulasi
+2026-10-09 09:17:09,2026-10-09 09:29:09,Nasi Goreng Ayam,2,1,simulasi
+2026-10-09 09:18:50,2026-10-09 09:27:12,Pisang Coklat Keju,3,2,simulasi
+2026-10-09 09:19:15,2026-10-09 09:36:51,Indomie Goreng Double,2,3,simulasi
+2026-10-09 09:41:27,2026-10-09 09:45:01,Nasi Tempe Penyet,1,0,simulasi
+2026-10-09 10:00:54,2026-10-09 10:08:42,Indomie Goreng Double,1,0,simulasi
+2026-10-09 10:01:18,2026-10-09 10:05:07,Tempe Goreng,1,1,simulasi
+2026-10-09 10:03:08,2026-10-09 10:10:34,Pisang Spatu,1,2,simulasi
+2026-10-09 10:39:43,2026-10-09 10:49:29,Nasi Goreng Roa,1,0,simulasi
+2026-10-09 10:48:53,2026-10-09 10:58:10,Indomie Kuah Single,2,1,simulasi
+2026-10-09 10:56:59,2026-10-09 11:03:24,Pisang Spatu,2,1,simulasi
+2026-10-09 11:22:57,2026-10-09 11:25:07,Es Kacang,1,0,simulasi
+2026-10-09 11:38:43,2026-10-09 11:48:49,Indomie Kuah Single,2,0,simulasi
+2026-10-09 11:50:50,2026-10-09 11:57:20,Pisang Spatu,1,0,simulasi
+2026-10-09 11:52:08,2026-10-09 11:56:38,Mie Goreng Cakalang,1,1,simulasi
+2026-10-09 11:52:41,2026-10-09 12:01:51,Nasi Campur Ayam,1,2,simulasi
+2026-10-09 11:53:04,2026-10-09 12:03:49,Nasi Goreng Ayam,1,3,simulasi
+2026-10-09 11:58:16,2026-10-09 12:09:12,Nasi Ayam Geprek,2,2,simulasi
+2026-10-09 12:00:12,2026-10-09 12:08:20,Pisang Goroho Stik,2,3,simulasi
+2026-10-09 12:00:41,2026-10-09 12:11:11,Nasi Campur Ayam,1,4,simulasi
+2026-10-09 12:02:37,2026-10-09 12:15:06,Tempe Goreng,1,4,simulasi
+2026-10-09 12:17:20,2026-10-09 12:21:31,Pisang Goroho Stik,1,0,simulasi
+2026-10-09 12:19:03,2026-10-09 12:22:18,Pisang Goroho Stik,1,1,simulasi
+2026-10-09 12:23:09,2026-10-09 12:24:14,Es Kepal,1,0,simulasi
+2026-10-09 12:34:37,2026-10-09 12:35:38,Air Mineral Sedang,1,0,simulasi
+2026-10-09 12:36:00,2026-10-09 12:41:52,Pisang Coklat Keju,3,0,simulasi
+2026-10-09 12:36:11,2026-10-09 12:41:08,Nasi Campur Ikan,2,1,simulasi
+2026-10-09 12:40:41,2026-10-09 12:46:29,Indomie Goreng Double,1,2,simulasi
+2026-10-09 12:50:10,2026-10-09 12:59:49,Nasi Goreng Ayam,1,0,simulasi
+2026-10-09 12:50:51,2026-10-09 12:56:58,Pisang Coklat Keju,3,1,simulasi
+2026-10-09 12:52:38,2026-10-09 13:03:01,Nasi Goreng Ayam,1,2,simulasi
+2026-10-09 12:53:06,2026-10-09 13:02:29,Pisang Coklat Keju,1,3,simulasi
+2026-10-09 12:57:17,2026-10-09 13:06:29,Indomie Kuah Single,1,3,simulasi
+2026-10-09 12:58:32,2026-10-09 13:14:39,Indomie Goreng Single,2,4,simulasi
+2026-10-09 12:59:45,2026-10-09 13:10:07,Pisang Coklat Keju,1,5,simulasi
+2026-10-09 13:05:05,2026-10-09 13:19:04,Indomie Kuah Double,1,3,simulasi
+2026-10-09 13:05:14,2026-10-09 13:20:42,Nasi Goreng Roa,3,4,simulasi
+2026-10-09 13:05:52,2026-10-09 13:20:16,Es Kepal,1,5,simulasi
+2026-10-09 13:18:01,2026-10-09 13:29:22,Nasi Goreng Roa,1,3,simulasi
+2026-10-09 13:18:34,2026-10-09 13:21:50,Es Kepal,1,4,simulasi
+2026-10-09 13:33:04,2026-10-09 13:38:49,Nasi Goreng Cakalang,2,0,simulasi
+2026-10-09 13:37:44,2026-10-09 13:38:54,Kolak Kacang Ijo,1,1,simulasi
+2026-10-09 13:50:46,2026-10-09 13:55:00,Pisang Goroho Tepung,1,0,simulasi
+2026-10-09 14:02:22,2026-10-09 14:07:18,Indomie Kuah Double,1,0,simulasi
+2026-10-09 14:30:01,2026-10-09 14:39:41,Nasi Goreng Roa,1,0,simulasi
+2026-10-09 14:35:44,2026-10-09 14:36:59,Air Mineral Sedang,1,1,simulasi
+2026-10-09 14:38:58,2026-10-09 14:43:37,Mie Kuah Cakalang,1,1,simulasi
+2026-10-09 14:57:22,2026-10-09 14:59:39,Es Palu Butung,2,0,simulasi
+2026-10-10 09:07:11,2026-10-10 09:11:50,Pisang Spatu,1,0,simulasi
+2026-10-10 09:15:58,2026-10-10 09:19:57,Es Cendeol,2,0,simulasi
+2026-10-10 09:16:21,2026-10-10 09:16:58,Air Mineral Sedang,1,1,simulasi
+2026-10-10 09:21:06,2026-10-10 09:29:04,Mie Goreng Cakalang,1,0,simulasi
+2026-10-10 09:24:01,2026-10-10 09:28:23,Tahu Isi,2,1,simulasi
+2026-10-10 09:33:15,2026-10-10 09:38:37,Nasi Goreng Telur,1,0,simulasi
+2026-10-10 09:33:18,2026-10-10 09:37:44,Pisang Coklat Keju,1,1,simulasi
+2026-10-10 09:42:52,2026-10-10 09:43:52,Air Mineral Besar,1,0,simulasi
+2026-10-10 10:21:45,2026-10-10 10:30:05,Nasi Goreng Roa,1,0,simulasi
+2026-10-10 10:39:38,2026-10-10 10:45:34,Nasi Goreng Ayam,1,0,simulasi
+2026-10-10 10:41:03,2026-10-10 10:48:35,Nasi Goreng Telur,1,1,simulasi
+2026-10-10 10:43:39,2026-10-10 10:50:05,Mie Kuah Cakalang,2,2,simulasi
+2026-10-10 10:57:44,2026-10-10 11:00:07,Pisang Goroho Tepung,2,0,simulasi
+2026-10-10 11:08:07,2026-10-10 11:16:55,Indomie Kuah Single,1,0,simulasi
+2026-10-10 11:09:01,2026-10-10 11:11:55,Pisang Goroho Stik,1,1,simulasi
+2026-10-10 11:26:53,2026-10-10 11:31:07,Mie Goreng Cakalang,1,0,simulasi
+2026-10-10 11:27:12,2026-10-10 11:33:33,Pisang Coklat Keju,4,1,simulasi
+2026-10-10 11:34:37,2026-10-10 11:37:10,Pisang Coklat Keju,2,0,simulasi
+2026-10-10 11:37:47,2026-10-10 11:46:58,Tahu Isi,3,0,simulasi
+2026-10-10 11:41:05,2026-10-10 11:42:55,Pisang Goroho Tepung,1,1,simulasi
+2026-10-10 11:47:17,2026-10-10 11:48:11,Air Mineral Sedang,2,0,simulasi
+2026-10-10 11:49:32,2026-10-10 11:55:11,Nasi Campur Ayam,1,0,simulasi
+2026-10-10 11:49:34,2026-10-10 11:56:37,Nasi Goreng Roa,2,1,simulasi
+2026-10-10 11:50:01,2026-10-10 12:05:38,Mie Kuah Cakalang,3,2,simulasi
+2026-10-10 11:59:32,2026-10-10 12:00:53,Es Kacang,2,1,simulasi
+2026-10-10 12:00:24,2026-10-10 12:02:19,Gohu,1,2,simulasi
+2026-10-10 12:06:53,2026-10-10 12:08:04,Gohu,1,0,simulasi
+2026-10-10 12:13:21,2026-10-10 12:15:00,Gohu,1,0,simulasi
+2026-10-10 12:18:19,2026-10-10 12:25:12,Indomie Kuah Single,1,0,simulasi
+2026-10-10 12:18:35,2026-10-10 12:20:39,Es Cendeol,1,1,simulasi
+2026-10-10 12:23:18,2026-10-10 12:29:36,Indomie Kuah Double,1,1,simulasi
+2026-10-10 12:23:46,2026-10-10 12:31:11,Nasi Tempe Penyet,1,2,simulasi
+2026-10-10 12:25:24,2026-10-10 12:32:14,Gohu,2,2,simulasi
+2026-10-10 12:26:58,2026-10-10 12:35:14,Pisang Goroho Stik,1,3,simulasi
+2026-10-10 12:29:31,2026-10-10 12:36:25,Nasi Campur Ayam,1,4,simulasi
+2026-10-10 12:34:12,2026-10-10 12:35:46,Air Mineral Kecil,2,2,simulasi
+2026-10-10 12:43:01,2026-10-10 12:44:45,Kolak Kacang Ijo,1,0,simulasi
+2026-10-10 12:56:33,2026-10-10 12:58:53,Pisang Goroho Stik,1,0,simulasi
+2026-10-10 13:03:43,2026-10-10 13:07:34,Mie Kuah Cakalang,1,0,simulasi
+2026-10-10 13:04:24,2026-10-10 13:06:12,Es Kepal,1,1,simulasi
+2026-10-10 13:04:36,2026-10-10 13:07:27,Air Mineral Kecil,2,2,simulasi
+2026-10-10 13:21:56,2026-10-10 13:27:28,Nasi Goreng Roa,1,0,simulasi
+2026-10-10 13:34:51,2026-10-10 13:37:22,Kolak Kacang Ijo,1,0,simulasi
+2026-10-10 13:35:24,2026-10-10 13:44:38,Nasi Goreng Roa,3,1,simulasi
+2026-10-10 13:46:26,2026-10-10 13:52:59,Indomie Goreng Double,1,0,simulasi
+2026-10-10 14:05:14,2026-10-10 14:11:03,Mie Kuah Cakalang,1,0,simulasi
+2026-10-10 14:22:25,2026-10-10 14:25:36,Es Palu Butung,3,0,simulasi
+2026-10-10 14:23:53,2026-10-10 14:29:10,Nasi Goreng Ayam,1,1,simulasi
+2026-10-10 14:38:04,2026-10-10 14:43:30,Pisang Goroho Stik,2,0,simulasi
+2026-10-10 14:54:25,2026-10-10 15:02:46,Nasi Goreng Roa,2,0,simulasi
+2026-10-11 09:20:21,2026-10-11 09:25:51,Nasi Ayam Geprek,1,0,simulasi
+2026-10-11 09:50:49,2026-10-11 09:57:57,Indomie Goreng Double,2,0,simulasi
+2026-10-11 10:09:34,2026-10-11 10:10:40,Kolak Kacang Ijo,1,0,simulasi
+2026-10-11 10:11:24,2026-10-11 10:17:31,Nasi Campur Ikan,1,0,simulasi
+2026-10-11 10:34:10,2026-10-11 10:41:10,Pisang Goroho Tepung,1,0,simulasi
+2026-10-11 10:36:46,2026-10-11 10:47:22,Mie Goreng Cakalang,1,1,simulasi
+2026-10-11 10:44:42,2026-10-11 10:50:50,Tinutuan & Miedal,2,1,simulasi
+2026-10-11 10:52:15,2026-10-11 10:59:43,Nasi Goreng Ayam,1,0,simulasi
+2026-10-11 10:53:11,2026-10-11 10:58:36,Nasi Goreng Roa,2,1,simulasi
+2026-10-11 10:54:23,2026-10-11 11:05:57,Nasi Campur Ayam,1,2,simulasi
+2026-10-11 10:56:08,2026-10-11 11:01:37,Es Cendeol,4,3,simulasi
+2026-10-11 11:04:02,2026-10-11 11:10:58,Nasi Campur Ikan,1,1,simulasi
+2026-10-11 11:17:56,2026-10-11 11:22:59,Nasi Campur Ayam,2,0,simulasi
+2026-10-11 11:19:59,2026-10-11 11:28:31,Indomie Kuah Single,1,1,simulasi
+2026-10-11 11:24:46,2026-10-11 11:32:49,Nasi Goreng Telur,1,1,simulasi
+2026-10-11 11:32:12,2026-10-11 11:40:19,Nasi Goreng Cakalang,1,1,simulasi
+2026-10-11 11:32:41,2026-10-11 11:42:50,Nasi Goreng Roa,1,2,simulasi
+2026-10-11 11:36:06,2026-10-11 11:49:59,Indomie Goreng Double,1,2,simulasi
+2026-10-11 11:36:13,2026-10-11 11:50:23,Nasi Goreng Roa,2,3,simulasi
+2026-10-11 11:37:24,2026-10-11 11:51:38,Es Palu Butung,1,4,simulasi
+2026-10-11 11:39:41,2026-10-11 11:58:35,Pisang Spatu,2,5,simulasi
+2026-10-11 11:50:31,2026-10-11 11:58:24,Nasi Campur Ikan,1,2,simulasi
+2026-10-11 11:51:04,2026-10-11 12:09:04,Mie Goreng Cakalang,1,3,simulasi
+2026-10-11 11:54:05,2026-10-11 12:05:03,Indomie Goreng Single,1,3,simulasi
+2026-10-11 12:00:06,2026-10-11 12:07:45,Pisang Spatu,2,2,simulasi
+2026-10-11 12:02:55,2026-10-11 12:08:18,Air Mineral Kecil,1,3,simulasi
+2026-10-11 12:05:15,2026-10-11 12:09:39,Air Mineral Sedang,1,3,simulasi
+2026-10-11 12:08:29,2026-10-11 12:15:40,Nasi Ayam Geprek,2,2,simulasi
+2026-10-11 12:11:41,2026-10-11 12:15:22,Es Cendeol,1,1,simulasi
+2026-10-11 12:12:21,2026-10-11 12:21:32,Tempe Goreng,1,2,simulasi
+2026-10-11 12:13:15,2026-10-11 12:21:09,Indomie Goreng Single,1,3,simulasi
+2026-10-11 12:14:50,2026-10-11 12:23:44,Es Kepal,1,4,simulasi
+2026-10-11 12:16:40,2026-10-11 12:27:46,Nasi Goreng Roa,2,3,simulasi
+2026-10-11 12:17:33,2026-10-11 12:27:29,Pisang Spatu,1,4,simulasi
+2026-10-11 12:19:18,2026-10-11 12:38:19,Pisang Goroho Tepung,3,5,simulasi
+2026-10-11 12:33:05,2026-10-11 12:34:17,Es Palu Butung,1,1,simulasi
+2026-10-11 12:37:43,2026-10-11 12:44:48,Nasi Campur Ikan,1,1,simulasi
+2026-10-11 12:39:12,2026-10-11 12:43:34,Nasi Goreng Roa,1,1,simulasi
+2026-10-11 12:40:02,2026-10-11 12:54:16,Indomie Kuah Single,1,2,simulasi
+2026-10-11 12:45:20,2026-10-11 12:46:51,Kolak Kacang Ijo,1,1,simulasi
+2026-10-11 12:46:09,2026-10-11 12:51:21,Nasi Ayam Geprek,3,2,simulasi
+2026-10-11 12:50:22,2026-10-11 12:58:43,Tahu Isi,1,2,simulasi
+2026-10-11 12:52:45,2026-10-11 13:02:19,Pisang Goroho Stik,2,2,simulasi
+2026-10-11 12:53:25,2026-10-11 13:03:19,Es Kacang,3,3,simulasi
+2026-10-11 12:58:49,2026-10-11 13:05:58,Es Cendeol,1,2,simulasi
+2026-10-11 13:02:09,2026-10-11 13:08:51,Nasi Goreng Roa,1,3,simulasi
+2026-10-11 13:03:07,2026-10-11 13:14:19,Nasi Goreng Roa,1,3,simulasi
+2026-10-11 13:16:34,2026-10-11 13:22:59,Nasi Campur Ikan,1,0,simulasi
+2026-10-11 13:17:11,2026-10-11 13:26:04,Indomie Kuah Single,2,1,simulasi
+2026-10-11 13:30:53,2026-10-11 13:32:38,Air Mineral Sedang,2,0,simulasi
+2026-10-11 14:01:45,2026-10-11 14:08:54,Mie Kuah Cakalang,1,0,simulasi
+2026-10-11 14:16:45,2026-10-11 14:27:10,Indomie Goreng Single,1,0,simulasi
+2026-10-12 09:08:29,2026-10-12 09:15:01,Indomie Kuah Double,1,0,simulasi
+2026-10-12 09:47:24,2026-10-12 09:51:33,Nasi Campur Ikan,2,0,simulasi
+2026-10-12 10:22:34,2026-10-12 10:33:12,Indomie Kuah Single,1,0,simulasi
+2026-10-12 10:27:16,2026-10-12 10:30:41,Es Palu Butung,1,1,simulasi
+2026-10-12 11:09:24,2026-10-12 11:18:40,Indomie Goreng Double,1,0,simulasi
+2026-10-12 11:12:02,2026-10-12 11:13:31,Air Mineral Besar,2,1,simulasi
+2026-10-12 11:12:52,2026-10-12 11:17:13,Pisang Coklat Keju,1,2,simulasi
+2026-10-12 11:15:32,2026-10-12 11:16:38,Air Mineral Sedang,1,2,simulasi
+2026-10-12 11:15:33,2026-10-12 11:19:09,Es Kepal,2,3,simulasi
+2026-10-12 11:22:52,2026-10-12 11:26:44,Kolak Kacang Ijo,1,0,simulasi
+2026-10-12 11:29:39,2026-10-12 11:33:43,Es Palu Butung,2,0,simulasi
+2026-10-12 11:33:39,2026-10-12 11:45:56,Indomie Goreng Double,2,1,simulasi
+2026-10-12 11:35:59,2026-10-12 11:42:00,Pisang Spatu,3,1,simulasi
+2026-10-12 11:36:49,2026-10-12 11:40:29,Es Palu Butung,1,2,simulasi
+2026-10-12 11:40:38,2026-10-12 11:50:45,Mie Goreng Cakalang,1,2,simulasi
+2026-10-12 11:45:01,2026-10-12 12:01:07,Nasi Goreng Roa,3,2,simulasi
+2026-10-12 11:53:32,2026-10-12 12:01:47,Indomie Goreng Double,1,1,simulasi
+2026-10-12 11:53:33,2026-10-12 12:03:21,Nasi Ayam Geprek,2,2,simulasi
+2026-10-12 11:53:46,2026-10-12 12:09:57,Mie Kuah Cakalang,2,3,simulasi
+2026-10-12 11:58:40,2026-10-12 12:04:08,Es Palu Butung,2,4,simulasi
+2026-10-12 11:59:28,2026-10-12 12:07:20,Gohu,2,5,simulasi
+2026-10-12 12:00:08,2026-10-12 12:11:40,Nasi Campur Ayam,1,6,simulasi
+2026-10-12 12:00:18,2026-10-12 12:18:06,Nasi Goreng Telur,1,7,simulasi
+2026-10-12 12:00:22,2026-10-12 12:11:34,Air Mineral Sedang,1,8,simulasi
+2026-10-12 12:04:21,2026-10-12 12:15:21,Es Palu Butung,2,5,simulasi
+2026-10-12 12:04:45,2026-10-12 12:15:33,Nasi Campur Ikan,1,6,simulasi
+2026-10-12 12:08:30,2026-10-12 12:23:45,Indomie Kuah Double,1,6,simulasi
+2026-10-12 12:08:46,2026-10-12 12:21:11,Nasi Campur Ayam,1,7,simulasi
+2026-10-12 12:08:50,2026-10-12 12:28:34,Mie Goreng Cakalang,1,8,simulasi
+2026-10-12 12:09:17,2026-10-12 12:22:54,Air Mineral Sedang,1,9,simulasi
+2026-10-12 12:10:13,2026-10-12 12:24:57,Kolak Kacang Ijo,1,9,simulasi
+2026-10-12 12:11:17,2026-10-12 12:33:06,Indomie Goreng Single,3,10,simulasi
+2026-10-12 12:15:35,2026-10-12 12:28:29,Pisang Coklat Keju,1,7,simulasi
+2026-10-12 12:19:56,2026-10-12 12:37:59,Pisang Spatu,2,7,simulasi
+2026-10-12 12:22:17,2026-10-12 12:38:34,Nasi Goreng Telur,3,7,simulasi
+2026-10-12 12:26:23,2026-10-12 12:42:46,Nasi Goreng Roa,1,5,simulasi
+2026-10-12 12:33:36,2026-10-12 12:41:56,Es Kacang,1,3,simulasi
+2026-10-12 12:39:04,2026-10-12 12:44:08,Nasi Campur Ayam,1,2,simulasi
+2026-10-12 12:39:51,2026-10-12 12:51:15,Nasi Goreng Telur,2,3,simulasi
+2026-10-12 12:43:32,2026-10-12 12:45:09,Air Mineral Sedang,1,2,simulasi
+2026-10-12 12:44:52,2026-10-12 12:45:56,Air Mineral Sedang,1,2,simulasi
+2026-10-12 12:46:19,2026-10-12 12:52:51,Nasi Tempe Penyet,1,1,simulasi
+2026-10-12 12:47:03,2026-10-12 12:54:31,Indomie Kuah Single,2,2,simulasi
+2026-10-12 12:49:17,2026-10-12 12:52:16,Air Mineral Sedang,1,3,simulasi
+2026-10-12 12:53:23,2026-10-12 13:01:02,Nasi Goreng Telur,1,1,simulasi
+2026-10-12 13:01:50,2026-10-12 13:02:25,Air Mineral Besar,1,0,simulasi
+2026-10-12 13:04:39,2026-10-12 13:09:53,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-12 13:10:07,2026-10-12 13:11:20,Air Mineral Kecil,1,0,simulasi
+2026-10-12 13:21:36,2026-10-12 13:29:13,Nasi Goreng Telur,1,0,simulasi
+2026-10-12 13:22:03,2026-10-12 13:22:42,Air Mineral Kecil,1,1,simulasi
+2026-10-12 13:38:55,2026-10-12 13:44:50,Indomie Kuah Double,1,0,simulasi
+2026-10-12 13:40:26,2026-10-12 13:44:04,Nasi Ayam Geprek,1,1,simulasi
+2026-10-12 13:59:46,2026-10-12 14:01:37,Air Mineral Kecil,2,0,simulasi
+2026-10-12 14:01:22,2026-10-12 14:02:45,Air Mineral Kecil,1,1,simulasi
+2026-10-12 14:50:39,2026-10-12 14:56:57,Pisang Coklat Keju,1,0,simulasi
+2026-10-12 14:50:53,2026-10-12 14:52:31,Es Kacang,1,1,simulasi
+2026-10-13 09:47:51,2026-10-13 09:54:45,Pisang Goroho Tepung,1,0,simulasi
+2026-10-13 10:35:28,2026-10-13 10:37:47,Es Kacang,1,0,simulasi
+2026-10-13 11:07:55,2026-10-13 11:15:12,Pisang Coklat Keju,2,0,simulasi
+2026-10-13 11:13:03,2026-10-13 11:20:55,Nasi Goreng Ayam,1,1,simulasi
+2026-10-13 11:14:24,2026-10-13 11:21:15,Pisang Coklat Keju,1,2,simulasi
+2026-10-13 11:19:46,2026-10-13 11:25:08,Pisang Spatu,2,2,simulasi
+2026-10-13 11:27:57,2026-10-13 11:31:00,Nasi Ayam Geprek,1,0,simulasi
+2026-10-13 11:29:02,2026-10-13 11:29:37,Air Mineral Kecil,1,1,simulasi
+2026-10-13 11:30:08,2026-10-13 11:32:24,Es Palu Butung,1,1,simulasi
+2026-10-13 11:31:46,2026-10-13 11:37:07,Mie Goreng Cakalang,1,1,simulasi
+2026-10-13 11:32:58,2026-10-13 11:45:25,Indomie Kuah Single,2,1,simulasi
+2026-10-13 11:34:23,2026-10-13 11:42:56,Nasi Campur Ikan,1,2,simulasi
+2026-10-13 11:43:52,2026-10-13 11:51:16,Indomie Kuah Single,1,1,simulasi
+2026-10-13 11:45:15,2026-10-13 11:51:14,Es Palu Butung,3,2,simulasi
+2026-10-13 11:46:24,2026-10-13 11:58:19,Nasi Goreng Cakalang,1,2,simulasi
+2026-10-13 11:50:05,2026-10-13 11:56:08,Nasi Goreng Roa,1,3,simulasi
+2026-10-13 11:52:33,2026-10-13 12:00:52,Nasi Tempe Penyet,1,2,simulasi
+2026-10-13 11:58:31,2026-10-13 12:01:52,Nasi Campur Ayam,1,1,simulasi
+2026-10-13 11:59:21,2026-10-13 12:09:52,Indomie Kuah Single,1,2,simulasi
+2026-10-13 12:02:55,2026-10-13 12:12:36,Nasi Goreng Cakalang,1,1,simulasi
+2026-10-13 12:05:35,2026-10-13 12:16:27,Nasi Tempe Penyet,1,2,simulasi
+2026-10-13 12:11:39,2026-10-13 12:20:15,Mie Goreng Cakalang,2,2,simulasi
+2026-10-13 12:27:57,2026-10-13 12:31:21,Pisang Coklat Keju,1,0,simulasi
+2026-10-13 12:33:44,2026-10-13 12:40:41,Tempe Goreng,1,0,simulasi
+2026-10-13 12:36:09,2026-10-13 12:38:03,Gohu,1,1,simulasi
+2026-10-13 12:40:32,2026-10-13 12:43:26,Tahu Isi,1,1,simulasi
+2026-10-13 12:41:09,2026-10-13 12:42:31,Air Mineral Besar,1,1,simulasi
+2026-10-13 12:47:38,2026-10-13 12:54:28,Nasi Goreng Roa,1,0,simulasi
+2026-10-13 12:54:35,2026-10-13 12:59:02,Nasi Campur Ikan,4,0,simulasi
+2026-10-13 12:55:24,2026-10-13 13:00:33,Nasi Tempe Penyet,1,1,simulasi
+2026-10-13 13:00:40,2026-10-13 13:02:14,Es Kepal,1,0,simulasi
+2026-10-13 13:15:25,2026-10-13 13:17:01,Es Cendeol,2,0,simulasi
+2026-10-13 13:21:44,2026-10-13 13:23:47,Es Kepal,1,0,simulasi
+2026-10-13 13:21:55,2026-10-13 13:23:56,Es Cendeol,1,1,simulasi
+2026-10-13 13:22:36,2026-10-13 13:24:16,Air Mineral Kecil,1,2,simulasi
+2026-10-13 13:35:21,2026-10-13 13:43:16,Mie Kuah Cakalang,1,0,simulasi
+2026-10-13 13:36:53,2026-10-13 13:39:36,Nasi Ayam Geprek,1,1,simulasi
+2026-10-13 13:50:23,2026-10-13 13:53:36,Es Palu Butung,1,0,simulasi
+2026-10-13 14:18:13,2026-10-13 14:22:40,Es Kepal,2,0,simulasi
+2026-10-13 14:51:43,2026-10-13 14:58:41,Nasi Campur Ayam,1,0,simulasi
+2026-10-14 09:05:21,2026-10-14 09:07:44,Nasi Ayam Geprek,1,0,simulasi
+2026-10-14 09:44:01,2026-10-14 09:50:47,Tinutuan & Miedal,1,0,simulasi
+2026-10-14 09:54:30,2026-10-14 10:04:58,Mie Goreng Cakalang,1,0,simulasi
+2026-10-14 10:30:50,2026-10-14 10:34:35,Nasi Campur Ayam,1,0,simulasi
+2026-10-14 10:46:25,2026-10-14 10:56:02,Mie Kuah Cakalang,2,0,simulasi
+2026-10-14 11:19:24,2026-10-14 11:23:22,Tahu Isi,2,0,simulasi
+2026-10-14 11:26:25,2026-10-14 11:27:39,Air Mineral Sedang,1,0,simulasi
+2026-10-14 11:35:01,2026-10-14 11:35:28,Air Mineral Sedang,1,0,simulasi
+2026-10-14 11:37:23,2026-10-14 11:48:39,Nasi Goreng Cakalang,2,0,simulasi
+2026-10-14 11:42:06,2026-10-14 11:52:22,Indomie Goreng Single,1,1,simulasi
+2026-10-14 11:51:19,2026-10-14 11:54:11,Nasi Ayam Geprek,1,1,simulasi
+2026-10-14 11:59:41,2026-10-14 12:04:21,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-14 12:00:11,2026-10-14 12:07:47,Mie Kuah Cakalang,1,1,simulasi
+2026-10-14 12:01:05,2026-10-14 12:08:47,Mie Goreng Cakalang,1,2,simulasi
+2026-10-14 12:11:16,2026-10-14 12:12:40,Air Mineral Besar,2,0,simulasi
+2026-10-14 12:11:41,2026-10-14 12:16:18,Nasi Tempe Penyet,2,1,simulasi
+2026-10-14 12:15:21,2026-10-14 12:22:44,Indomie Kuah Double,2,1,simulasi
+2026-10-14 12:16:24,2026-10-14 12:26:41,Pisang Spatu,3,1,simulasi
+2026-10-14 12:17:43,2026-10-14 12:28:29,Tempe Goreng,1,2,simulasi
+2026-10-14 12:19:19,2026-10-14 12:30:03,Nasi Ayam Geprek,1,3,simulasi
+2026-10-14 12:19:29,2026-10-14 12:31:17,Es Kacang,1,4,simulasi
+2026-10-14 12:25:53,2026-10-14 12:43:13,Nasi Goreng Ayam,2,4,simulasi
+2026-10-14 12:26:57,2026-10-14 12:35:01,Gohu,3,4,simulasi
+2026-10-14 12:27:11,2026-10-14 12:42:38,Indomie Goreng Single,2,5,simulasi
+2026-10-14 12:28:10,2026-10-14 12:50:22,Nasi Goreng Roa,1,6,simulasi
+2026-10-14 12:37:41,2026-10-14 12:51:24,Indomie Goreng Single,1,3,simulasi
+2026-10-14 12:42:23,2026-10-14 12:57:12,Nasi Goreng Telur,1,4,simulasi
+2026-10-14 12:43:04,2026-10-14 12:55:06,Gohu,1,4,simulasi
+2026-10-14 12:45:18,2026-10-14 12:59:50,Nasi Tempe Penyet,2,4,simulasi
+2026-10-14 12:49:58,2026-10-14 13:00:56,Es Cendeol,1,5,simulasi
+2026-10-14 12:53:04,2026-10-14 13:03:57,Kolak Kacang Ijo,3,4,simulasi
+2026-10-14 12:54:58,2026-10-14 13:02:12,Air Mineral Kecil,1,5,simulasi
+2026-10-14 12:55:00,2026-10-14 13:10:34,Indomie Goreng Single,1,6,simulasi
+2026-10-14 12:58:18,2026-10-14 13:08:12,Pisang Coklat Keju,2,5,simulasi
+2026-10-14 13:03:34,2026-10-14 13:09:25,Es Kacang,1,3,simulasi
+2026-10-14 13:06:14,2026-10-14 13:13:26,Nasi Campur Ayam,3,3,simulasi
+2026-10-14 13:19:21,2026-10-14 13:24:05,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-14 13:19:34,2026-10-14 13:23:11,Kolak Kacang Ijo,1,1,simulasi
+2026-10-14 13:21:19,2026-10-14 13:33:43,Indomie Goreng Double,2,2,simulasi
+2026-10-14 13:22:33,2026-10-14 13:30:35,Pisang Spatu,1,3,simulasi
+2026-10-14 13:23:07,2026-10-14 13:37:59,Tempe Goreng,1,4,simulasi
+2026-10-14 13:28:26,2026-10-14 13:37:51,Pisang Coklat Keju,1,3,simulasi
+2026-10-14 13:30:40,2026-10-14 13:47:08,Indomie Goreng Single,1,3,simulasi
+2026-10-14 13:30:53,2026-10-14 13:48:54,Nasi Goreng Telur,1,4,simulasi
+2026-10-14 13:40:57,2026-10-14 13:52:05,Indomie Kuah Double,1,2,simulasi
+2026-10-14 13:41:09,2026-10-14 13:59:25,Indomie Goreng Double,1,3,simulasi
+2026-10-14 14:08:41,2026-10-14 14:14:42,Indomie Goreng Double,1,0,simulasi
+2026-10-14 14:16:19,2026-10-14 14:20:19,Es Kacang,1,0,simulasi
+2026-10-15 09:16:05,2026-10-15 09:22:25,Pisang Goroho Stik,1,0,simulasi
+2026-10-15 09:50:21,2026-10-15 10:00:27,Mie Kuah Cakalang,1,0,simulasi
+2026-10-15 10:02:14,2026-10-15 10:07:24,Indomie Goreng Double,1,0,simulasi
+2026-10-15 10:12:59,2026-10-15 10:14:56,Es Kepal,1,0,simulasi
+2026-10-15 10:25:09,2026-10-15 10:31:13,Pisang Coklat Keju,1,0,simulasi
+2026-10-15 10:37:08,2026-10-15 10:40:40,Es Cendeol,2,0,simulasi
+2026-10-15 10:47:41,2026-10-15 10:55:56,Pisang Coklat Keju,2,0,simulasi
+2026-10-15 10:54:45,2026-10-15 10:58:46,Es Palu Butung,1,1,simulasi
+2026-10-15 11:01:56,2026-10-15 11:06:53,Indomie Goreng Single,1,0,simulasi
+2026-10-15 11:02:45,2026-10-15 11:05:12,Es Kacang,3,1,simulasi
+2026-10-15 11:12:35,2026-10-15 11:17:25,Nasi Tempe Penyet,1,0,simulasi
+2026-10-15 11:16:39,2026-10-15 11:25:40,Pisang Spatu,2,1,simulasi
+2026-10-15 11:31:47,2026-10-15 11:40:42,Nasi Campur Ayam,2,0,simulasi
+2026-10-15 11:34:03,2026-10-15 11:36:32,Pisang Spatu,1,1,simulasi
+2026-10-15 11:41:08,2026-10-15 11:43:42,Tahu Isi,1,0,simulasi
+2026-10-15 11:43:45,2026-10-15 11:48:52,Nasi Campur Ayam,1,0,simulasi
+2026-10-15 11:46:29,2026-10-15 11:52:56,Pisang Spatu,2,1,simulasi
+2026-10-15 11:50:52,2026-10-15 11:56:50,Indomie Goreng Double,2,1,simulasi
+2026-10-15 11:50:57,2026-10-15 11:53:42,Air Mineral Sedang,1,2,simulasi
+2026-10-15 11:50:59,2026-10-15 11:59:19,Mie Goreng Cakalang,1,3,simulasi
+2026-10-15 12:04:34,2026-10-15 12:05:44,Air Mineral Kecil,2,0,simulasi
+2026-10-15 12:05:11,2026-10-15 12:13:40,Indomie Goreng Single,2,1,simulasi
+2026-10-15 12:08:27,2026-10-15 12:12:37,Es Kacang,1,1,simulasi
+2026-10-15 12:08:38,2026-10-15 12:15:59,Es Kacang,1,2,simulasi
+2026-10-15 12:12:24,2026-10-15 12:15:20,Air Mineral Besar,2,3,simulasi
+2026-10-15 12:32:31,2026-10-15 12:36:18,Es Palu Butung,2,0,simulasi
+2026-10-15 12:37:41,2026-10-15 12:43:16,Pisang Spatu,1,0,simulasi
+2026-10-15 12:38:10,2026-10-15 12:45:18,Nasi Goreng Roa,2,1,simulasi
+2026-10-15 12:38:50,2026-10-15 12:51:26,Mie Goreng Cakalang,1,2,simulasi
+2026-10-15 12:39:14,2026-10-15 12:46:20,Air Mineral Besar,1,3,simulasi
+2026-10-15 12:44:21,2026-10-15 12:50:44,Es Kepal,2,3,simulasi
+2026-10-15 12:52:56,2026-10-15 13:00:16,Mie Kuah Cakalang,1,0,simulasi
+2026-10-15 12:53:20,2026-10-15 12:59:17,Nasi Ayam Geprek,1,1,simulasi
+2026-10-15 12:54:14,2026-10-15 13:09:48,Nasi Goreng Cakalang,1,2,simulasi
+2026-10-15 12:58:06,2026-10-15 13:02:16,Es Kacang,1,3,simulasi
+2026-10-15 13:06:09,2026-10-15 13:15:20,Indomie Goreng Double,1,1,simulasi
+2026-10-15 13:14:53,2026-10-15 13:18:25,Es Kepal,1,1,simulasi
+2026-10-15 13:17:11,2026-10-15 13:22:52,Indomie Kuah Single,1,1,simulasi
+2026-10-15 13:48:09,2026-10-15 13:52:32,Pisang Coklat Keju,1,0,simulasi
+2026-10-15 13:48:53,2026-10-15 13:50:13,Air Mineral Sedang,4,1,simulasi
+2026-10-15 14:01:43,2026-10-15 14:06:21,Tempe Goreng,1,0,simulasi
+2026-10-15 14:27:38,2026-10-15 14:40:16,Indomie Kuah Single,2,0,simulasi
+2026-10-15 14:31:19,2026-10-15 14:34:38,Nasi Campur Ayam,1,1,simulasi
+2026-10-16 09:14:30,2026-10-16 09:20:52,Tempe Goreng,1,0,simulasi
+2026-10-16 09:15:05,2026-10-16 09:18:09,Gohu,3,1,simulasi
+2026-10-16 09:21:07,2026-10-16 09:27:50,Indomie Goreng Single,2,0,simulasi
+2026-10-16 09:26:42,2026-10-16 09:37:23,Indomie Kuah Double,2,1,simulasi
+2026-10-16 09:47:34,2026-10-16 09:52:16,Pisang Goroho Tepung,1,0,simulasi
+2026-10-16 10:07:46,2026-10-16 10:10:57,Tempe Goreng,2,0,simulasi
+2026-10-16 10:19:59,2026-10-16 10:25:20,Nasi Ayam Geprek,1,0,simulasi
+2026-10-16 10:31:00,2026-10-16 10:37:21,Mie Goreng Cakalang,1,0,simulasi
+2026-10-16 10:40:29,2026-10-16 10:43:02,Nasi Campur Ayam,1,0,simulasi
+2026-10-16 10:47:39,2026-10-16 10:52:59,Nasi Campur Ayam,2,0,simulasi
+2026-10-16 10:47:50,2026-10-16 10:50:23,Nasi Campur Ikan,1,1,simulasi
+2026-10-16 10:56:24,2026-10-16 11:04:07,Mie Kuah Cakalang,1,0,simulasi
+2026-10-16 10:57:52,2026-10-16 10:59:05,Air Mineral Kecil,1,1,simulasi
+2026-10-16 10:58:21,2026-10-16 11:06:55,Indomie Kuah Double,1,2,simulasi
+2026-10-16 11:02:02,2026-10-16 11:04:59,Air Mineral Sedang,2,2,simulasi
+2026-10-16 11:04:26,2026-10-16 11:13:14,Nasi Goreng Telur,1,2,simulasi
+2026-10-16 11:08:25,2026-10-16 11:14:08,Nasi Tempe Penyet,1,1,simulasi
+2026-10-16 11:11:27,2026-10-16 11:14:41,Air Mineral Besar,3,2,simulasi
+2026-10-16 11:13:15,2026-10-16 11:21:00,Nasi Campur Ikan,2,2,simulasi
+2026-10-16 11:14:17,2026-10-16 11:15:18,Air Mineral Besar,2,2,simulasi
+2026-10-16 11:19:06,2026-10-16 11:23:41,Indomie Kuah Single,1,1,simulasi
+2026-10-16 11:24:13,2026-10-16 11:27:22,Kolak Kacang Ijo,1,0,simulasi
+2026-10-16 11:36:06,2026-10-16 11:43:15,Tinutuan & Miedal,2,0,simulasi
+2026-10-16 11:37:21,2026-10-16 11:38:55,Air Mineral Besar,3,1,simulasi
+2026-10-16 11:43:34,2026-10-16 11:44:01,Air Mineral Kecil,1,0,simulasi
+2026-10-16 11:58:45,2026-10-16 12:08:01,Indomie Goreng Double,1,0,simulasi
+2026-10-16 11:59:28,2026-10-16 12:04:39,Nasi Goreng Telur,1,1,simulasi
+2026-10-16 12:00:46,2026-10-16 12:07:56,Es Palu Butung,1,2,simulasi
+2026-10-16 12:02:28,2026-10-16 12:09:43,Es Kepal,1,3,simulasi
+2026-10-16 12:02:45,2026-10-16 12:15:04,Tahu Isi,1,4,simulasi
+2026-10-16 12:04:01,2026-10-16 12:12:31,Pisang Spatu,2,5,simulasi
+2026-10-16 12:10:55,2026-10-16 12:21:23,Nasi Goreng Cakalang,3,2,simulasi
+2026-10-16 12:12:24,2026-10-16 12:18:46,Nasi Tempe Penyet,1,3,simulasi
+2026-10-16 12:14:33,2026-10-16 12:21:11,Nasi Campur Ayam,1,3,simulasi
+2026-10-16 12:23:36,2026-10-16 12:29:04,Pisang Coklat Keju,1,0,simulasi
+2026-10-16 12:23:48,2026-10-16 12:25:58,Pisang Goroho Tepung,1,1,simulasi
+2026-10-16 12:28:00,2026-10-16 12:29:32,Es Kacang,1,1,simulasi
+2026-10-16 12:30:58,2026-10-16 12:42:05,Indomie Kuah Double,2,0,simulasi
+2026-10-16 12:31:01,2026-10-16 12:33:17,Pisang Coklat Keju,1,1,simulasi
+2026-10-16 12:33:48,2026-10-16 12:39:57,Nasi Campur Ayam,2,1,simulasi
+2026-10-16 12:35:15,2026-10-16 12:45:04,Nasi Goreng Telur,1,2,simulasi
+2026-10-16 12:39:37,2026-10-16 12:44:35,Es Cendeol,1,3,simulasi
+2026-10-16 12:40:23,2026-10-16 12:49:36,Mie Kuah Cakalang,1,3,simulasi
+2026-10-16 12:40:27,2026-10-16 12:53:25,Indomie Kuah Double,3,4,simulasi
+2026-10-16 12:45:12,2026-10-16 12:52:29,Pisang Goroho Tepung,1,2,simulasi
+2026-10-16 12:56:31,2026-10-16 13:03:10,Nasi Ayam Geprek,1,0,simulasi
+2026-10-16 12:59:46,2026-10-16 13:04:24,Nasi Campur Ikan,1,1,simulasi
+2026-10-16 13:04:28,2026-10-16 13:07:56,Nasi Campur Ayam,1,0,simulasi
+2026-10-16 13:07:18,2026-10-16 13:12:58,Pisang Goroho Stik,1,1,simulasi
+2026-10-16 13:09:43,2026-10-16 13:11:33,Es Cendeol,1,1,simulasi
+2026-10-16 13:10:12,2026-10-16 13:17:22,Indomie Kuah Double,1,2,simulasi
+2026-10-16 13:25:28,2026-10-16 13:26:46,Kolak Kacang Ijo,1,0,simulasi
+2026-10-16 13:36:28,2026-10-16 13:48:59,Indomie Goreng Single,3,0,simulasi
+2026-10-16 13:46:33,2026-10-16 13:52:51,Pisang Goroho Tepung,1,1,simulasi
+2026-10-16 13:55:07,2026-10-16 14:02:07,Tahu Isi,2,0,simulasi
+2026-10-16 14:05:41,2026-10-16 14:11:33,Tahu Isi,1,0,simulasi
+2026-10-16 14:27:04,2026-10-16 14:34:34,Tinutuan & Miedal,2,0,simulasi
+2026-10-16 14:28:19,2026-10-16 14:29:04,Air Mineral Sedang,1,1,simulasi
+2026-10-16 14:33:25,2026-10-16 14:37:44,Mie Kuah Cakalang,1,1,simulasi
+2026-10-16 14:40:59,2026-10-16 14:42:16,Air Mineral Kecil,1,0,simulasi
+2026-10-16 14:43:38,2026-10-16 14:47:30,Es Cendeol,1,0,simulasi
+2026-10-17 09:20:07,2026-10-17 09:21:14,Air Mineral Sedang,2,0,simulasi
+2026-10-17 09:49:47,2026-10-17 09:55:48,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-17 09:52:17,2026-10-17 10:04:30,Indomie Goreng Single,2,1,simulasi
+2026-10-17 10:27:08,2026-10-17 10:36:32,Indomie Kuah Double,1,0,simulasi
+2026-10-17 11:11:09,2026-10-17 11:19:04,Mie Goreng Cakalang,1,0,simulasi
+2026-10-17 11:11:50,2026-10-17 11:16:04,Pisang Goroho Stik,1,1,simulasi
+2026-10-17 11:13:08,2026-10-17 11:23:51,Nasi Campur Ikan,1,2,simulasi
+2026-10-17 11:15:29,2026-10-17 11:26:00,Pisang Coklat Keju,3,3,simulasi
+2026-10-17 11:22:37,2026-10-17 11:29:23,Tempe Goreng,1,2,simulasi
+2026-10-17 11:29:03,2026-10-17 11:34:49,Pisang Coklat Keju,2,1,simulasi
+2026-10-17 11:33:02,2026-10-17 11:36:03,Es Kacang,2,1,simulasi
+2026-10-17 11:44:04,2026-10-17 11:50:56,Pisang Spatu,1,0,simulasi
+2026-10-17 11:47:11,2026-10-17 11:49:47,Nasi Tempe Penyet,1,1,simulasi
+2026-10-17 11:49:26,2026-10-17 11:53:19,Nasi Campur Ayam,1,2,simulasi
+2026-10-17 11:57:27,2026-10-17 12:03:08,Nasi Campur Ikan,1,0,simulasi
+2026-10-17 11:59:05,2026-10-17 12:01:51,Es Cendeol,1,1,simulasi
+2026-10-17 12:03:36,2026-10-17 12:05:00,Air Mineral Kecil,1,0,simulasi
+2026-10-17 12:04:42,2026-10-17 12:12:09,Tempe Goreng,1,1,simulasi
+2026-10-17 12:06:14,2026-10-17 12:19:31,Nasi Goreng Roa,2,1,simulasi
+2026-10-17 12:07:16,2026-10-17 12:13:48,Air Mineral Besar,1,2,simulasi
+2026-10-17 12:07:38,2026-10-17 12:16:27,Es Kepal,2,3,simulasi
+2026-10-17 12:15:59,2026-10-17 12:20:08,Pisang Coklat Keju,1,2,simulasi
+2026-10-17 12:19:29,2026-10-17 12:31:40,Nasi Goreng Roa,2,2,simulasi
+2026-10-17 12:21:16,2026-10-17 12:29:47,Nasi Goreng Cakalang,2,1,simulasi
+2026-10-17 12:24:55,2026-10-17 12:33:40,Pisang Goroho Tepung,2,2,simulasi
+2026-10-17 12:25:31,2026-10-17 12:33:29,Es Kepal,1,3,simulasi
+2026-10-17 12:29:04,2026-10-17 12:36:11,Es Cendeol,1,4,simulasi
+2026-10-17 12:34:00,2026-10-17 12:39:50,Tempe Goreng,1,1,simulasi
+2026-10-17 12:58:56,2026-10-17 13:11:12,Indomie Kuah Single,2,0,simulasi
+2026-10-17 12:59:49,2026-10-17 13:03:53,Pisang Goroho Tepung,2,1,simulasi
+2026-10-17 13:02:56,2026-10-17 13:12:55,Nasi Tempe Penyet,3,2,simulasi
+2026-10-17 13:04:02,2026-10-17 13:20:02,Pisang Spatu,2,2,simulasi
+2026-10-17 13:04:34,2026-10-17 13:17:09,Tinutuan & Miedal,1,3,simulasi
+2026-10-17 13:10:03,2026-10-17 13:17:49,Air Mineral Sedang,1,4,simulasi
+2026-10-17 13:15:01,2026-10-17 13:21:44,Pisang Coklat Keju,2,3,simulasi
+2026-10-17 13:44:58,2026-10-17 13:48:30,Es Cendeol,1,0,simulasi
+2026-10-17 13:52:30,2026-10-17 13:56:04,Pisang Spatu,3,0,simulasi
+2026-10-17 14:11:02,2026-10-17 14:25:14,Nasi Goreng Telur,2,0,simulasi
+2026-10-17 14:35:08,2026-10-17 14:41:03,Nasi Campur Ayam,2,0,simulasi
+2026-10-17 14:37:26,2026-10-17 14:44:09,Tinutuan & Miedal,1,1,simulasi
+2026-10-17 14:38:39,2026-10-17 14:46:43,Pisang Spatu,1,2,simulasi
+2026-10-18 09:06:18,2026-10-18 09:09:10,Kolak Kacang Ijo,2,0,simulasi
+2026-10-18 09:15:08,2026-10-18 09:23:54,Indomie Goreng Double,2,0,simulasi
+2026-10-18 09:36:41,2026-10-18 09:40:26,Kolak Kacang Ijo,1,0,simulasi
+2026-10-18 09:45:25,2026-10-18 09:46:46,Air Mineral Besar,1,0,simulasi
+2026-10-18 10:50:33,2026-10-18 10:57:15,Nasi Campur Ayam,1,0,simulasi
+2026-10-18 11:02:49,2026-10-18 11:06:18,Es Cendeol,1,0,simulasi
+2026-10-18 11:08:36,2026-10-18 11:10:33,Es Palu Butung,1,0,simulasi
+2026-10-18 11:17:44,2026-10-18 11:20:33,Es Kepal,1,0,simulasi
+2026-10-18 11:18:26,2026-10-18 11:28:33,Nasi Goreng Ayam,1,1,simulasi
+2026-10-18 11:19:02,2026-10-18 11:28:01,Nasi Goreng Ayam,1,2,simulasi
+2026-10-18 11:21:20,2026-10-18 11:37:59,Nasi Goreng Roa,1,2,simulasi
+2026-10-18 11:24:22,2026-10-18 11:33:41,Nasi Goreng Roa,1,3,simulasi
+2026-10-18 11:28:37,2026-10-18 11:37:16,Es Palu Butung,1,2,simulasi
+2026-10-18 11:30:08,2026-10-18 11:49:42,Mie Goreng Cakalang,2,3,simulasi
+2026-10-18 11:33:11,2026-10-18 11:41:08,Tahu Isi,1,4,simulasi
+2026-10-18 11:33:12,2026-10-18 11:45:27,Pisang Goroho Tepung,1,5,simulasi
+2026-10-18 11:33:29,2026-10-18 11:54:36,Nasi Goreng Telur,1,6,simulasi
+2026-10-18 11:49:18,2026-10-18 12:01:24,Indomie Goreng Single,2,2,simulasi
+2026-10-18 11:49:55,2026-10-18 11:57:44,Tinutuan & Miedal,1,2,simulasi
+2026-10-18 11:55:37,2026-10-18 12:05:09,Mie Kuah Cakalang,1,2,simulasi
+2026-10-18 11:55:48,2026-10-18 12:03:53,Tempe Goreng,1,3,simulasi
+2026-10-18 11:57:38,2026-10-18 12:09:00,Pisang Coklat Keju,1,4,simulasi
+2026-10-18 12:01:09,2026-10-18 12:12:10,Indomie Goreng Single,1,4,simulasi
+2026-10-18 12:05:39,2026-10-18 12:16:56,Indomie Kuah Single,1,2,simulasi
+2026-10-18 12:07:59,2026-10-18 12:15:16,Pisang Goroho Tepung,2,3,simulasi
+2026-10-18 12:08:10,2026-10-18 12:21:29,Tahu Isi,1,4,simulasi
+2026-10-18 12:09:12,2026-10-18 12:17:54,Air Mineral Sedang,1,4,simulasi
+2026-10-18 12:11:30,2026-10-18 12:20:48,Kolak Kacang Ijo,1,5,simulasi
+2026-10-18 12:11:56,2026-10-18 12:25:10,Nasi Goreng Cakalang,1,6,simulasi
+2026-10-18 12:19:16,2026-10-18 12:29:58,Nasi Campur Ayam,4,3,simulasi
+2026-10-18 12:22:01,2026-10-18 12:33:49,Nasi Ayam Geprek,2,2,simulasi
+2026-10-18 12:23:05,2026-10-18 12:31:30,Air Mineral Besar,1,3,simulasi
+2026-10-18 12:26:55,2026-10-18 12:32:49,Es Kepal,1,3,simulasi
+2026-10-18 12:27:59,2026-10-18 12:38:26,Es Palu Butung,3,4,simulasi
+2026-10-18 12:32:07,2026-10-18 12:37:28,Nasi Campur Ayam,2,3,simulasi
+2026-10-18 12:32:21,2026-10-18 12:42:30,Tempe Goreng,1,4,simulasi
+2026-10-18 12:32:53,2026-10-18 12:41:01,Es Cendeol,1,4,simulasi
+2026-10-18 12:33:11,2026-10-18 12:46:30,Nasi Goreng Telur,2,5,simulasi
+2026-10-18 12:38:48,2026-10-18 12:46:39,Tahu Isi,1,3,simulasi
+2026-10-18 12:45:12,2026-10-18 12:51:15,Nasi Campur Ikan,3,2,simulasi
+2026-10-18 12:49:21,2026-10-18 12:54:29,Mie Goreng Cakalang,1,1,simulasi
+2026-10-18 12:50:23,2026-10-18 12:53:47,Air Mineral Kecil,4,2,simulasi
+2026-10-18 12:50:35,2026-10-18 12:56:50,Es Palu Butung,1,3,simulasi
+2026-10-18 12:50:57,2026-10-18 13:03:11,Indomie Kuah Double,1,4,simulasi
+2026-10-18 12:53:32,2026-10-18 13:05:28,Pisang Coklat Keju,2,4,simulasi
+2026-10-18 12:55:00,2026-10-18 13:09:35,Tahu Isi,2,3,simulasi
+2026-10-18 12:55:48,2026-10-18 13:07:00,Air Mineral Sedang,1,4,simulasi
+2026-10-18 12:59:29,2026-10-18 13:13:51,Nasi Campur Ikan,1,4,simulasi
+2026-10-18 12:59:39,2026-10-18 13:15:16,Tempe Goreng,1,5,simulasi
+2026-10-18 13:01:35,2026-10-18 13:26:40,Indomie Kuah Double,2,6,simulasi
+2026-10-18 13:05:08,2026-10-18 13:22:40,Mie Kuah Cakalang,2,6,simulasi
+2026-10-18 13:09:33,2026-10-18 13:23:48,Kolak Kacang Ijo,1,5,simulasi
+2026-10-18 13:11:07,2026-10-18 13:25:57,Es Kepal,1,5,simulasi
+2026-10-18 13:12:02,2026-10-18 13:26:31,Air Mineral Kecil,1,6,simulasi
+2026-10-18 13:15:23,2026-10-18 13:29:31,Es Kepal,1,5,simulasi
+2026-10-18 13:41:38,2026-10-18 13:46:56,Indomie Goreng Single,1,0,simulasi
+2026-10-18 13:57:20,2026-10-18 14:00:26,Es Cendeol,1,0,simulasi
+2026-10-18 14:09:57,2026-10-18 14:15:30,Mie Goreng Cakalang,1,0,simulasi
+2026-10-18 14:13:21,2026-10-18 14:20:06,Pisang Spatu,3,1,simulasi
+2026-10-18 14:49:08,2026-10-18 14:57:06,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-18 14:51:44,2026-10-18 14:57:59,Mie Goreng Cakalang,1,1,simulasi
+2026-10-19 09:13:58,2026-10-19 09:20:14,Indomie Goreng Double,3,0,simulasi
+2026-10-19 09:25:58,2026-10-19 09:32:57,Indomie Kuah Single,2,0,simulasi
+2026-10-19 09:31:17,2026-10-19 09:34:58,Indomie Goreng Single,1,1,simulasi
+2026-10-19 09:41:59,2026-10-19 09:43:28,Es Cendeol,1,0,simulasi
+2026-10-19 10:03:56,2026-10-19 10:09:22,Pisang Coklat Keju,1,0,simulasi
+2026-10-19 10:14:20,2026-10-19 10:16:22,Nasi Tempe Penyet,1,0,simulasi
+2026-10-19 10:23:19,2026-10-19 10:26:37,Pisang Goroho Tepung,1,0,simulasi
+2026-10-19 10:39:03,2026-10-19 10:46:47,Nasi Goreng Roa,1,0,simulasi
+2026-10-19 10:39:05,2026-10-19 10:44:09,Tempe Goreng,1,1,simulasi
+2026-10-19 10:41:10,2026-10-19 10:43:26,Gohu,3,2,simulasi
+2026-10-19 10:54:32,2026-10-19 10:56:40,Pisang Coklat Keju,1,0,simulasi
+2026-10-19 11:18:36,2026-10-19 11:21:57,Es Palu Butung,2,0,simulasi
+2026-10-19 11:20:55,2026-10-19 11:31:17,Nasi Goreng Cakalang,3,1,simulasi
+2026-10-19 11:29:49,2026-10-19 11:32:11,Es Cendeol,1,1,simulasi
+2026-10-19 11:42:06,2026-10-19 11:43:56,Gohu,2,0,simulasi
+2026-10-19 11:48:38,2026-10-19 11:49:24,Air Mineral Kecil,2,0,simulasi
+2026-10-19 11:49:18,2026-10-19 11:52:58,Mie Kuah Cakalang,1,1,simulasi
+2026-10-19 11:50:15,2026-10-19 11:56:34,Nasi Goreng Ayam,1,1,simulasi
+2026-10-19 11:59:05,2026-10-19 12:05:11,Mie Goreng Cakalang,2,0,simulasi
+2026-10-19 11:59:41,2026-10-19 12:05:08,Indomie Kuah Double,2,1,simulasi
+2026-10-19 12:03:36,2026-10-19 12:04:53,Air Mineral Sedang,1,2,simulasi
+2026-10-19 12:04:45,2026-10-19 12:15:25,Pisang Coklat Keju,4,3,simulasi
+2026-10-19 12:08:24,2026-10-19 12:12:00,Nasi Campur Ayam,1,1,simulasi
+2026-10-19 12:11:20,2026-10-19 12:14:12,Pisang Goroho Stik,1,2,simulasi
+2026-10-19 12:13:09,2026-10-19 12:16:55,Es Palu Butung,3,2,simulasi
+2026-10-19 12:20:17,2026-10-19 12:24:10,Mie Kuah Cakalang,1,0,simulasi
+2026-10-19 12:21:10,2026-10-19 12:26:18,Indomie Goreng Single,2,1,simulasi
+2026-10-19 12:27:56,2026-10-19 12:34:58,Indomie Goreng Single,1,0,simulasi
+2026-10-19 12:28:32,2026-10-19 12:35:03,Pisang Goroho Tepung,2,1,simulasi
+2026-10-19 12:30:28,2026-10-19 12:34:45,Pisang Goroho Stik,1,2,simulasi
+2026-10-19 12:36:46,2026-10-19 12:38:38,Kolak Kacang Ijo,1,0,simulasi
+2026-10-19 12:38:57,2026-10-19 12:48:39,Nasi Goreng Roa,4,0,simulasi
+2026-10-19 12:39:28,2026-10-19 12:40:37,Air Mineral Besar,2,1,simulasi
+2026-10-19 12:45:37,2026-10-19 12:50:08,Nasi Campur Ayam,1,1,simulasi
+2026-10-19 12:49:36,2026-10-19 12:56:14,Indomie Goreng Single,3,1,simulasi
+2026-10-19 12:55:48,2026-10-19 13:03:27,Mie Goreng Cakalang,3,1,simulasi
+2026-10-19 13:05:52,2026-10-19 13:10:58,Nasi Campur Ayam,1,0,simulasi
+2026-10-19 13:07:06,2026-10-19 13:08:18,Es Cendeol,1,1,simulasi
+2026-10-19 13:12:14,2026-10-19 13:14:17,Es Palu Butung,3,0,simulasi
+2026-10-19 13:17:21,2026-10-19 13:17:58,Air Mineral Sedang,1,0,simulasi
+2026-10-19 13:17:55,2026-10-19 13:26:09,Nasi Goreng Ayam,1,1,simulasi
+2026-10-19 13:20:38,2026-10-19 13:31:12,Mie Kuah Cakalang,3,1,simulasi
+2026-10-19 13:29:06,2026-10-19 13:32:29,Pisang Goroho Stik,1,1,simulasi
+2026-10-19 13:32:56,2026-10-19 13:36:14,Kolak Kacang Ijo,2,0,simulasi
+2026-10-19 13:33:46,2026-10-19 13:37:47,Nasi Ayam Geprek,1,1,simulasi
+2026-10-19 13:33:48,2026-10-19 13:34:54,Es Cendeol,1,2,simulasi
+2026-10-19 13:36:55,2026-10-19 13:40:20,Es Kacang,1,1,simulasi
+2026-10-19 13:37:13,2026-10-19 13:42:19,Tahu Isi,1,2,simulasi
+2026-10-19 13:46:42,2026-10-19 13:55:24,Indomie Kuah Single,1,0,simulasi
+2026-10-19 14:10:32,2026-10-19 14:13:36,Pisang Goroho Stik,1,0,simulasi
+2026-10-19 14:33:38,2026-10-19 14:35:38,Gohu,1,0,simulasi
+2026-10-19 14:37:15,2026-10-19 14:43:15,Nasi Goreng Telur,1,0,simulasi
+2026-10-19 14:45:01,2026-10-19 14:46:00,Es Palu Butung,1,0,simulasi
+2026-10-20 09:00:29,2026-10-20 09:05:07,Pisang Goroho Stik,1,0,simulasi
+2026-10-20 09:03:48,2026-10-20 09:13:01,Indomie Goreng Single,1,1,simulasi
+2026-10-20 09:28:43,2026-10-20 09:36:47,Nasi Goreng Roa,1,0,simulasi
+2026-10-20 09:29:42,2026-10-20 09:32:25,Gohu,2,1,simulasi
+2026-10-20 09:39:09,2026-10-20 09:44:43,Pisang Goroho Stik,1,0,simulasi
+2026-10-20 10:06:36,2026-10-20 10:07:52,Es Kacang,1,0,simulasi
+2026-10-20 10:07:58,2026-10-20 10:10:30,Es Palu Butung,1,0,simulasi
+2026-10-20 10:15:56,2026-10-20 10:28:07,Nasi Goreng Cakalang,2,0,simulasi
+2026-10-20 10:27:06,2026-10-20 10:33:05,Mie Goreng Cakalang,1,1,simulasi
+2026-10-20 10:43:47,2026-10-20 10:45:49,Kolak Kacang Ijo,1,0,simulasi
+2026-10-20 11:23:14,2026-10-20 11:30:40,Pisang Spatu,3,0,simulasi
+2026-10-20 11:24:10,2026-10-20 11:32:32,Indomie Kuah Single,1,1,simulasi
+2026-10-20 11:26:16,2026-10-20 11:39:25,Indomie Kuah Single,1,2,simulasi
+2026-10-20 11:32:39,2026-10-20 11:33:36,Air Mineral Besar,2,1,simulasi
+2026-10-20 11:32:59,2026-10-20 11:39:47,Tempe Goreng,1,2,simulasi
+2026-10-20 11:35:05,2026-10-20 11:43:58,Es Cendeol,1,2,simulasi
+2026-10-20 11:39:01,2026-10-20 11:42:47,Pisang Goroho Tepung,2,3,simulasi
+2026-10-20 11:57:33,2026-10-20 12:05:58,Indomie Kuah Single,1,0,simulasi
+2026-10-20 12:02:33,2026-10-20 12:09:40,Nasi Goreng Cakalang,3,1,simulasi
+2026-10-20 12:02:47,2026-10-20 12:10:24,Tinutuan & Miedal,2,2,simulasi
+2026-10-20 12:03:54,2026-10-20 12:18:39,Indomie Kuah Single,1,3,simulasi
+2026-10-20 12:10:23,2026-10-20 12:11:51,Air Mineral Besar,2,2,simulasi
+2026-10-20 12:16:26,2026-10-20 12:23:06,Tempe Goreng,1,1,simulasi
+2026-10-20 12:19:03,2026-10-20 12:30:13,Nasi Goreng Cakalang,2,1,simulasi
+2026-10-20 12:22:27,2026-10-20 12:25:56,Tahu Isi,1,2,simulasi
+2026-10-20 12:23:24,2026-10-20 12:33:00,Mie Kuah Cakalang,1,2,simulasi
+2026-10-20 12:29:04,2026-10-20 12:42:45,Nasi Goreng Telur,2,2,simulasi
+2026-10-20 12:31:44,2026-10-20 12:36:03,Pisang Goroho Stik,1,2,simulasi
+2026-10-20 12:32:33,2026-10-20 12:45:59,Nasi Goreng Telur,1,3,simulasi
+2026-10-20 12:38:14,2026-10-20 12:53:19,Mie Goreng Cakalang,1,2,simulasi
+2026-10-20 12:39:33,2026-10-20 12:55:34,Pisang Goroho Stik,4,3,simulasi
+2026-10-20 12:44:42,2026-10-20 13:00:15,Indomie Goreng Single,1,3,simulasi
+2026-10-20 12:49:37,2026-10-20 12:58:22,Nasi Campur Ikan,1,3,simulasi
+2026-10-20 12:51:41,2026-10-20 13:07:12,Pisang Goroho Tepung,2,4,simulasi
+2026-10-20 12:52:27,2026-10-20 13:13:40,Indomie Kuah Double,2,5,simulasi
+2026-10-20 13:01:27,2026-10-20 13:13:19,Nasi Goreng Ayam,1,2,simulasi
+2026-10-20 13:07:53,2026-10-20 13:14:53,Es Palu Butung,1,2,simulasi
+2026-10-20 13:09:02,2026-10-20 13:14:28,Air Mineral Kecil,1,3,simulasi
+2026-10-20 13:12:48,2026-10-20 13:22:18,Mie Kuah Cakalang,2,4,simulasi
+2026-10-20 13:16:57,2026-10-20 13:24:52,Nasi Goreng Cakalang,1,1,simulasi
+2026-10-20 13:30:16,2026-10-20 13:33:09,Es Palu Butung,1,0,simulasi
+2026-10-20 13:33:29,2026-10-20 13:39:06,Pisang Coklat Keju,1,0,simulasi
+2026-10-20 13:33:59,2026-10-20 13:35:16,Air Mineral Besar,2,1,simulasi
+2026-10-20 13:34:50,2026-10-20 13:46:31,Nasi Goreng Ayam,1,2,simulasi
+2026-10-20 13:56:27,2026-10-20 14:04:46,Tahu Isi,4,0,simulasi
+2026-10-20 14:12:21,2026-10-20 14:17:33,Mie Goreng Cakalang,1,0,simulasi
+2026-10-20 14:13:02,2026-10-20 14:22:16,Mie Kuah Cakalang,1,1,simulasi
+2026-10-20 14:16:35,2026-10-20 14:21:49,Pisang Goroho Stik,1,2,simulasi
+2026-10-20 14:20:48,2026-10-20 14:25:03,Tempe Goreng,1,2,simulasi
+2026-10-20 14:22:08,2026-10-20 14:33:25,Indomie Goreng Double,1,2,simulasi
+2026-10-20 14:40:23,2026-10-20 14:45:46,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-21 09:05:29,2026-10-21 09:11:07,Pisang Goroho Stik,1,0,simulasi
+2026-10-21 09:50:46,2026-10-21 09:58:14,Nasi Tempe Penyet,2,0,simulasi
+2026-10-21 10:14:30,2026-10-21 10:21:19,Nasi Goreng Telur,1,0,simulasi
+2026-10-21 10:49:36,2026-10-21 10:50:50,Kolak Kacang Ijo,1,0,simulasi
+2026-10-21 11:24:13,2026-10-21 11:36:20,Indomie Goreng Single,3,0,simulasi
+2026-10-21 11:26:11,2026-10-21 11:32:06,Nasi Campur Ayam,1,1,simulasi
+2026-10-21 11:33:33,2026-10-21 11:41:52,Indomie Kuah Double,1,1,simulasi
+2026-10-21 11:36:32,2026-10-21 11:44:09,Pisang Goroho Stik,1,1,simulasi
+2026-10-21 11:45:16,2026-10-21 11:47:54,Es Kepal,1,0,simulasi
+2026-10-21 11:49:25,2026-10-21 11:51:49,Tinutuan & Miedal,1,0,simulasi
+2026-10-21 11:50:35,2026-10-21 11:55:32,Es Kepal,2,1,simulasi
+2026-10-21 11:53:23,2026-10-21 12:02:15,Mie Goreng Cakalang,1,1,simulasi
+2026-10-21 11:55:26,2026-10-21 12:02:26,Mie Kuah Cakalang,1,2,simulasi
+2026-10-21 12:00:54,2026-10-21 12:02:51,Air Mineral Sedang,1,2,simulasi
+2026-10-21 12:03:38,2026-10-21 12:12:46,Nasi Campur Ikan,2,0,simulasi
+2026-10-21 12:05:27,2026-10-21 12:08:24,Nasi Ayam Geprek,1,1,simulasi
+2026-10-21 12:07:56,2026-10-21 12:11:32,Nasi Tempe Penyet,1,2,simulasi
+2026-10-21 12:12:55,2026-10-21 12:16:45,Pisang Goroho Stik,1,0,simulasi
+2026-10-21 12:16:18,2026-10-21 12:26:13,Indomie Goreng Single,2,1,simulasi
+2026-10-21 12:18:36,2026-10-21 12:20:24,Gohu,3,1,simulasi
+2026-10-21 12:24:18,2026-10-21 12:27:50,Es Cendeol,1,1,simulasi
+2026-10-21 12:26:54,2026-10-21 12:28:40,Kolak Kacang Ijo,2,1,simulasi
+2026-10-21 12:32:09,2026-10-21 12:35:05,Nasi Tempe Penyet,1,0,simulasi
+2026-10-21 12:35:48,2026-10-21 12:43:27,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-21 12:36:42,2026-10-21 12:38:01,Es Cendeol,1,1,simulasi
+2026-10-21 12:39:25,2026-10-21 12:44:31,Nasi Goreng Roa,1,1,simulasi
+2026-10-21 12:40:12,2026-10-21 12:45:05,Air Mineral Kecil,1,2,simulasi
+2026-10-21 12:44:07,2026-10-21 12:50:48,Pisang Goroho Tepung,1,2,simulasi
+2026-10-21 12:46:14,2026-10-21 12:47:27,Air Mineral Sedang,1,1,simulasi
+2026-10-21 12:48:36,2026-10-21 12:51:02,Air Mineral Sedang,3,1,simulasi
+2026-10-21 12:49:42,2026-10-21 12:53:21,Pisang Goroho Stik,1,2,simulasi
+2026-10-21 13:01:36,2026-10-21 13:04:50,Tinutuan & Miedal,2,0,simulasi
+2026-10-21 13:02:30,2026-10-21 13:08:12,Pisang Spatu,1,1,simulasi
+2026-10-21 13:07:46,2026-10-21 13:11:38,Nasi Tempe Penyet,1,1,simulasi
+2026-10-21 13:11:37,2026-10-21 13:13:40,Es Cendeol,1,1,simulasi
+2026-10-21 13:16:12,2026-10-21 13:25:38,Mie Goreng Cakalang,1,0,simulasi
+2026-10-21 13:17:24,2026-10-21 13:26:51,Indomie Goreng Double,3,1,simulasi
+2026-10-21 13:18:17,2026-10-21 13:26:52,Es Cendeol,1,2,simulasi
+2026-10-21 13:34:44,2026-10-21 13:36:18,Air Mineral Sedang,1,0,simulasi
+2026-10-21 13:40:35,2026-10-21 13:45:22,Nasi Campur Ayam,1,0,simulasi
+2026-10-21 14:03:23,2026-10-21 14:15:20,Indomie Goreng Single,2,0,simulasi
+2026-10-21 14:05:05,2026-10-21 14:14:59,Indomie Goreng Double,1,1,simulasi
+2026-10-22 09:45:16,2026-10-22 09:49:55,Pisang Spatu,1,0,simulasi
+2026-10-22 10:45:59,2026-10-22 10:53:32,Nasi Goreng Ayam,2,0,simulasi
+2026-10-22 10:47:04,2026-10-22 10:54:22,Nasi Ayam Geprek,2,1,simulasi
+2026-10-22 10:51:56,2026-10-22 10:56:56,Gohu,1,2,simulasi
+2026-10-22 10:54:22,2026-10-22 10:56:20,Pisang Goroho Stik,1,1,simulasi
+2026-10-22 11:00:52,2026-10-22 11:09:53,Nasi Goreng Ayam,1,0,simulasi
+2026-10-22 11:00:56,2026-10-22 11:08:29,Mie Kuah Cakalang,2,1,simulasi
+2026-10-22 11:01:27,2026-10-22 11:10:49,Es Cendeol,1,2,simulasi
+2026-10-22 11:04:26,2026-10-22 11:15:22,Tahu Isi,1,3,simulasi
+2026-10-22 11:10:21,2026-10-22 11:18:36,Indomie Goreng Double,1,2,simulasi
+2026-10-22 11:11:16,2026-10-22 11:19:17,Pisang Goroho Stik,1,2,simulasi
+2026-10-22 11:11:53,2026-10-22 11:21:10,Nasi Tempe Penyet,1,3,simulasi
+2026-10-22 11:30:56,2026-10-22 11:35:54,Nasi Goreng Ayam,2,0,simulasi
+2026-10-22 11:35:51,2026-10-22 11:38:47,Gohu,1,1,simulasi
+2026-10-22 11:37:21,2026-10-22 11:39:01,Es Cendeol,1,1,simulasi
+2026-10-22 11:40:04,2026-10-22 11:40:54,Air Mineral Kecil,2,0,simulasi
+2026-10-22 11:41:28,2026-10-22 11:44:34,Tinutuan & Miedal,1,0,simulasi
+2026-10-22 11:46:06,2026-10-22 11:58:04,Indomie Kuah Double,3,0,simulasi
+2026-10-22 11:49:48,2026-10-22 11:58:26,Indomie Goreng Double,1,1,simulasi
+2026-10-22 11:52:33,2026-10-22 12:02:44,Indomie Goreng Double,1,2,simulasi
+2026-10-22 11:53:25,2026-10-22 12:02:59,Tempe Goreng,1,3,simulasi
+2026-10-22 11:58:06,2026-10-22 12:11:54,Indomie Kuah Double,2,3,simulasi
+2026-10-22 11:58:57,2026-10-22 12:04:40,Es Kacang,1,3,simulasi
+2026-10-22 12:01:42,2026-10-22 12:09:11,Tempe Goreng,1,4,simulasi
+2026-10-22 12:05:26,2026-10-22 12:12:28,Es Kepal,2,2,simulasi
+2026-10-22 12:06:41,2026-10-22 12:15:09,Pisang Coklat Keju,2,3,simulasi
+2026-10-22 12:09:03,2026-10-22 12:21:47,Nasi Goreng Telur,3,4,simulasi
+2026-10-22 12:10:07,2026-10-22 12:15:49,Air Mineral Sedang,1,4,simulasi
+2026-10-22 12:11:27,2026-10-22 12:24:55,Nasi Goreng Telur,2,5,simulasi
+2026-10-22 12:15:18,2026-10-22 12:27:16,Nasi Tempe Penyet,1,3,simulasi
+2026-10-22 12:15:41,2026-10-22 12:29:25,Mie Goreng Cakalang,1,4,simulasi
+2026-10-22 12:16:02,2026-10-22 12:31:08,Nasi Campur Ikan,1,4,simulasi
+2026-10-22 12:19:03,2026-10-22 12:31:29,Kolak Kacang Ijo,1,5,simulasi
+2026-10-22 12:21:55,2026-10-22 12:36:20,Pisang Goroho Stik,1,5,simulasi
+2026-10-22 12:24:30,2026-10-22 12:36:19,Nasi Ayam Geprek,1,6,simulasi
+2026-10-22 12:25:58,2026-10-22 12:41:55,Pisang Goroho Stik,1,6,simulasi
+2026-10-22 12:26:47,2026-10-22 12:40:48,Nasi Campur Ikan,1,7,simulasi
+2026-10-22 12:28:45,2026-10-22 12:45:00,Nasi Ayam Geprek,1,7,simulasi
+2026-10-22 12:32:35,2026-10-22 12:45:37,Nasi Goreng Ayam,1,5,simulasi
+2026-10-22 12:34:13,2026-10-22 12:48:58,Tinutuan & Miedal,3,6,simulasi
+2026-10-22 12:35:09,2026-10-22 12:55:17,Indomie Kuah Double,2,7,simulasi
+2026-10-22 12:36:32,2026-10-22 12:50:04,Air Mineral Kecil,1,6,simulasi
+2026-10-22 12:43:12,2026-10-22 12:52:32,Nasi Ayam Geprek,2,5,simulasi
+2026-10-22 12:45:37,2026-10-22 12:57:11,Pisang Coklat Keju,1,4,simulasi
+2026-10-22 12:48:14,2026-10-22 12:59:05,Tempe Goreng,1,5,simulasi
+2026-10-22 12:48:52,2026-10-22 13:00:43,Es Kepal,1,6,simulasi
+2026-10-22 12:49:49,2026-10-22 13:00:28,Es Kepal,2,6,simulasi
+2026-10-22 12:50:37,2026-10-22 13:02:21,Es Kepal,1,6,simulasi
+2026-10-22 12:54:56,2026-10-22 13:01:30,Air Mineral Besar,2,6,simulasi
+2026-10-22 13:00:38,2026-10-22 13:05:19,Pisang Goroho Stik,2,3,simulasi
+2026-10-22 13:01:55,2026-10-22 13:03:34,Air Mineral Sedang,1,2,simulasi
+2026-10-22 13:02:18,2026-10-22 13:12:53,Pisang Goroho Stik,3,3,simulasi
+2026-10-22 13:08:48,2026-10-22 13:12:01,Kolak Kacang Ijo,1,1,simulasi
+2026-10-22 13:15:49,2026-10-22 13:16:41,Air Mineral Besar,4,0,simulasi
+2026-10-22 13:28:20,2026-10-22 13:30:14,Tahu Isi,1,0,simulasi
+2026-10-22 13:51:17,2026-10-22 13:52:30,Air Mineral Besar,1,0,simulasi
+2026-10-22 14:10:54,2026-10-22 14:12:05,Air Mineral Kecil,4,0,simulasi
+2026-10-22 14:16:22,2026-10-22 14:19:27,Gohu,2,0,simulasi
+2026-10-23 09:30:15,2026-10-23 09:36:30,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-23 09:58:57,2026-10-23 10:07:42,Indomie Goreng Double,1,0,simulasi
+2026-10-23 10:10:51,2026-10-23 10:13:17,Es Kepal,1,0,simulasi
+2026-10-23 10:45:12,2026-10-23 10:46:23,Air Mineral Sedang,2,0,simulasi
+2026-10-23 10:58:18,2026-10-23 11:06:46,Indomie Goreng Double,1,0,simulasi
+2026-10-23 11:01:23,2026-10-23 11:07:12,Nasi Tempe Penyet,1,1,simulasi
+2026-10-23 11:02:52,2026-10-23 11:10:33,Mie Goreng Cakalang,2,2,simulasi
+2026-10-23 11:03:42,2026-10-23 11:09:44,Es Kacang,1,3,simulasi
+2026-10-23 11:06:45,2026-10-23 11:11:14,Indomie Kuah Single,1,4,simulasi
+2026-10-23 11:34:23,2026-10-23 11:39:19,Nasi Campur Ikan,1,0,simulasi
+2026-10-23 11:36:30,2026-10-23 11:37:52,Es Kacang,1,1,simulasi
+2026-10-23 11:38:39,2026-10-23 11:41:53,Es Palu Butung,1,1,simulasi
+2026-10-23 11:54:47,2026-10-23 11:57:10,Nasi Campur Ayam,1,0,simulasi
+2026-10-23 11:58:07,2026-10-23 12:01:28,Es Kepal,4,0,simulasi
+2026-10-23 11:59:22,2026-10-23 12:10:05,Indomie Goreng Single,2,1,simulasi
+2026-10-23 11:59:50,2026-10-23 12:04:25,Nasi Goreng Telur,1,2,simulasi
+2026-10-23 12:00:06,2026-10-23 12:07:42,Tahu Isi,2,3,simulasi
+2026-10-23 12:04:22,2026-10-23 12:10:10,Nasi Ayam Geprek,1,3,simulasi
+2026-10-23 12:05:06,2026-10-23 12:09:52,Es Cendeol,1,3,simulasi
+2026-10-23 12:12:38,2026-10-23 12:15:41,Kolak Kacang Ijo,1,0,simulasi
+2026-10-23 12:18:49,2026-10-23 12:22:36,Nasi Goreng Roa,1,0,simulasi
+2026-10-23 12:19:03,2026-10-23 12:20:01,Air Mineral Sedang,1,1,simulasi
+2026-10-23 12:21:21,2026-10-23 12:24:00,Es Kacang,1,1,simulasi
+2026-10-23 12:24:55,2026-10-23 12:29:57,Indomie Kuah Double,1,0,simulasi
+2026-10-23 12:25:33,2026-10-23 12:28:29,Nasi Campur Ikan,1,1,simulasi
+2026-10-23 12:27:30,2026-10-23 12:33:01,Nasi Goreng Roa,1,2,simulasi
+2026-10-23 12:28:46,2026-10-23 12:30:19,Kolak Kacang Ijo,1,2,simulasi
+2026-10-23 12:34:00,2026-10-23 12:40:26,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-23 12:35:00,2026-10-23 12:38:25,Nasi Tempe Penyet,2,1,simulasi
+2026-10-23 12:36:26,2026-10-23 12:39:47,Tempe Goreng,2,2,simulasi
+2026-10-23 12:43:11,2026-10-23 12:48:39,Pisang Goroho Stik,1,0,simulasi
+2026-10-23 12:50:46,2026-10-23 12:51:44,Air Mineral Sedang,1,0,simulasi
+2026-10-23 12:54:57,2026-10-23 13:02:57,Nasi Goreng Telur,1,0,simulasi
+2026-10-23 12:55:17,2026-10-23 12:56:16,Air Mineral Besar,1,1,simulasi
+2026-10-23 13:01:37,2026-10-23 13:06:59,Nasi Goreng Roa,1,1,simulasi
+2026-10-23 13:03:10,2026-10-23 13:11:27,Indomie Goreng Double,1,1,simulasi
+2026-10-23 13:11:36,2026-10-23 13:12:14,Air Mineral Kecil,1,0,simulasi
+2026-10-23 13:12:06,2026-10-23 13:13:00,Air Mineral Kecil,1,1,simulasi
+2026-10-23 13:14:56,2026-10-23 13:15:34,Air Mineral Kecil,1,0,simulasi
+2026-10-23 13:21:25,2026-10-23 13:25:15,Es Cendeol,2,0,simulasi
+2026-10-23 13:24:23,2026-10-23 13:28:44,Es Kacang,2,1,simulasi
+2026-10-23 13:33:09,2026-10-23 13:39:17,Tinutuan & Miedal,1,0,simulasi
+2026-10-23 13:38:17,2026-10-23 13:43:55,Pisang Goroho Stik,1,1,simulasi
+2026-10-23 13:55:47,2026-10-23 14:00:04,Pisang Goroho Tepung,2,0,simulasi
+2026-10-23 14:02:20,2026-10-23 14:09:25,Indomie Goreng Double,1,0,simulasi
+2026-10-23 14:41:57,2026-10-23 14:47:03,Tinutuan & Miedal,2,0,simulasi
+2026-10-24 09:21:08,2026-10-24 09:24:20,Tinutuan & Miedal,1,0,simulasi
+2026-10-24 10:08:42,2026-10-24 10:12:45,Es Kepal,2,0,simulasi
+2026-10-24 10:35:39,2026-10-24 10:37:43,Pisang Coklat Keju,1,0,simulasi
+2026-10-24 10:36:09,2026-10-24 10:47:43,Nasi Goreng Telur,3,1,simulasi
+2026-10-24 10:37:20,2026-10-24 10:38:01,Air Mineral Kecil,1,2,simulasi
+2026-10-24 10:46:15,2026-10-24 10:48:09,Es Kepal,2,1,simulasi
+2026-10-24 10:47:43,2026-10-24 10:49:52,Nasi Campur Ikan,1,1,simulasi
+2026-10-24 10:47:53,2026-10-24 10:54:14,Nasi Goreng Ayam,1,2,simulasi
+2026-10-24 10:57:50,2026-10-24 10:58:54,Gohu,1,0,simulasi
+2026-10-24 11:00:50,2026-10-24 11:02:06,Air Mineral Besar,2,0,simulasi
+2026-10-24 11:08:33,2026-10-24 11:09:20,Air Mineral Kecil,1,0,simulasi
+2026-10-24 11:09:39,2026-10-24 11:13:03,Pisang Goroho Tepung,1,0,simulasi
+2026-10-24 11:12:21,2026-10-24 11:16:01,Tahu Isi,1,1,simulasi
+2026-10-24 11:20:05,2026-10-24 11:26:21,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-24 11:22:19,2026-10-24 11:27:28,Nasi Goreng Ayam,2,1,simulasi
+2026-10-24 11:23:21,2026-10-24 11:30:06,Mie Kuah Cakalang,1,2,simulasi
+2026-10-24 11:25:48,2026-10-24 11:32:09,Tinutuan & Miedal,1,3,simulasi
+2026-10-24 11:28:15,2026-10-24 11:31:58,Nasi Goreng Ayam,1,2,simulasi
+2026-10-24 11:28:59,2026-10-24 11:32:52,Tempe Goreng,1,3,simulasi
+2026-10-24 11:37:21,2026-10-24 11:45:30,Indomie Goreng Single,2,0,simulasi
+2026-10-24 11:37:25,2026-10-24 11:38:54,Air Mineral Kecil,2,1,simulasi
+2026-10-24 11:38:54,2026-10-24 11:45:05,Tahu Isi,1,1,simulasi
+2026-10-24 11:39:29,2026-10-24 11:40:20,Air Mineral Kecil,1,2,simulasi
+2026-10-24 11:45:18,2026-10-24 11:48:55,Es Kacang,1,1,simulasi
+2026-10-24 11:53:02,2026-10-24 11:58:58,Indomie Kuah Double,1,0,simulasi
+2026-10-24 11:53:24,2026-10-24 11:58:34,Tinutuan & Miedal,1,1,simulasi
+2026-10-24 11:56:54,2026-10-24 12:05:01,Indomie Goreng Double,1,2,simulasi
+2026-10-24 12:00:25,2026-10-24 12:05:36,Nasi Ayam Geprek,1,1,simulasi
+2026-10-24 12:01:10,2026-10-24 12:04:06,Es Kepal,1,2,simulasi
+2026-10-24 12:01:38,2026-10-24 12:07:05,Nasi Ayam Geprek,1,3,simulasi
+2026-10-24 12:08:01,2026-10-24 12:09:05,Kolak Kacang Ijo,1,0,simulasi
+2026-10-24 12:08:22,2026-10-24 12:16:03,Nasi Goreng Roa,1,1,simulasi
+2026-10-24 12:09:45,2026-10-24 12:14:29,Nasi Campur Ikan,1,1,simulasi
+2026-10-24 12:20:09,2026-10-24 12:22:14,Gohu,1,0,simulasi
+2026-10-24 12:22:01,2026-10-24 12:25:24,Nasi Campur Ikan,2,1,simulasi
+2026-10-24 12:26:56,2026-10-24 12:30:29,Es Kepal,1,0,simulasi
+2026-10-24 12:40:08,2026-10-24 12:45:16,Pisang Goroho Tepung,2,0,simulasi
+2026-10-24 12:44:50,2026-10-24 12:45:52,Air Mineral Besar,1,1,simulasi
+2026-10-24 12:48:53,2026-10-24 12:50:21,Kolak Kacang Ijo,2,0,simulasi
+2026-10-24 12:49:54,2026-10-24 12:52:18,Nasi Campur Ikan,1,1,simulasi
+2026-10-24 12:56:44,2026-10-24 13:02:19,Nasi Tempe Penyet,1,0,simulasi
+2026-10-24 13:00:11,2026-10-24 13:04:58,Nasi Campur Ikan,1,1,simulasi
+2026-10-24 13:01:49,2026-10-24 13:05:06,Gohu,1,2,simulasi
+2026-10-24 13:13:48,2026-10-24 13:17:40,Tinutuan & Miedal,2,0,simulasi
+2026-10-24 13:25:43,2026-10-24 13:27:35,Nasi Campur Ikan,1,0,simulasi
+2026-10-24 13:26:55,2026-10-24 13:28:49,Kolak Kacang Ijo,1,1,simulasi
+2026-10-24 13:29:59,2026-10-24 13:35:40,Pisang Coklat Keju,1,0,simulasi
+2026-10-24 13:35:55,2026-10-24 13:42:49,Nasi Goreng Ayam,2,0,simulasi
+2026-10-24 13:44:38,2026-10-24 13:45:50,Air Mineral Besar,1,0,simulasi
+2026-10-24 14:16:50,2026-10-24 14:18:49,Kolak Kacang Ijo,1,0,simulasi
+2026-10-24 14:35:20,2026-10-24 14:41:30,Nasi Tempe Penyet,1,0,simulasi
+2026-10-24 14:46:34,2026-10-24 14:55:46,Indomie Kuah Single,2,0,simulasi
+2026-10-24 14:49:07,2026-10-24 14:50:29,Air Mineral Sedang,2,1,simulasi
+2026-10-25 09:10:01,2026-10-25 09:14:38,Nasi Campur Ayam,1,0,simulasi
+2026-10-25 09:23:06,2026-10-25 09:24:04,Air Mineral Besar,1,0,simulasi
+2026-10-25 09:28:19,2026-10-25 09:33:20,Nasi Tempe Penyet,1,0,simulasi
+2026-10-25 09:29:32,2026-10-25 09:30:33,Air Mineral Sedang,1,1,simulasi
+2026-10-25 09:38:03,2026-10-25 09:42:49,Nasi Tempe Penyet,1,0,simulasi
+2026-10-25 10:12:03,2026-10-25 10:16:58,Nasi Tempe Penyet,1,0,simulasi
+2026-10-25 11:00:06,2026-10-25 11:03:56,Es Cendeol,2,0,simulasi
+2026-10-25 11:02:31,2026-10-25 11:08:44,Nasi Campur Ayam,1,1,simulasi
+2026-10-25 11:04:11,2026-10-25 11:06:22,Tempe Goreng,1,1,simulasi
+2026-10-25 11:04:17,2026-10-25 11:07:44,Es Kepal,1,2,simulasi
+2026-10-25 11:13:34,2026-10-25 11:17:36,Nasi Goreng Cakalang,1,0,simulasi
+2026-10-25 11:17:25,2026-10-25 11:22:26,Nasi Goreng Telur,1,1,simulasi
+2026-10-25 11:19:25,2026-10-25 11:30:14,Indomie Goreng Single,2,1,simulasi
+2026-10-25 11:35:52,2026-10-25 11:39:10,Pisang Goroho Tepung,1,0,simulasi
+2026-10-25 11:44:09,2026-10-25 11:48:12,Nasi Campur Ikan,1,0,simulasi
+2026-10-25 11:46:48,2026-10-25 11:51:15,Mie Kuah Cakalang,1,1,simulasi
+2026-10-25 11:49:20,2026-10-25 11:53:37,Mie Goreng Cakalang,1,1,simulasi
+2026-10-25 11:50:35,2026-10-25 11:51:19,Air Mineral Besar,3,2,simulasi
+2026-10-25 11:51:47,2026-10-25 11:53:39,Nasi Tempe Penyet,1,1,simulasi
+2026-10-25 11:54:43,2026-10-25 11:57:41,Nasi Campur Ayam,1,0,simulasi
+2026-10-25 11:55:22,2026-10-25 11:57:26,Kolak Kacang Ijo,1,1,simulasi
+2026-10-25 11:58:05,2026-10-25 12:04:16,Pisang Goroho Stik,1,0,simulasi
+2026-10-25 12:01:45,2026-10-25 12:05:47,Nasi Goreng Telur,1,1,simulasi
+2026-10-25 12:03:14,2026-10-25 12:07:57,Nasi Goreng Cakalang,1,2,simulasi
+2026-10-25 12:04:00,2026-10-25 12:06:26,Nasi Ayam Geprek,1,3,simulasi
+2026-10-25 12:09:33,2026-10-25 12:15:26,Nasi Goreng Roa,1,0,simulasi
+2026-10-25 12:09:38,2026-10-25 12:14:20,Indomie Kuah Double,1,1,simulasi
+2026-10-25 12:10:30,2026-10-25 12:19:27,Nasi Goreng Ayam,1,2,simulasi
+2026-10-25 12:15:46,2026-10-25 12:20:44,Nasi Goreng Telur,2,1,simulasi
+2026-10-25 12:15:58,2026-10-25 12:20:58,Pisang Spatu,1,2,simulasi
+2026-10-25 12:18:19,2026-10-25 12:25:03,Pisang Coklat Keju,3,3,simulasi
+2026-10-25 12:22:33,2026-10-25 12:23:20,Air Mineral Besar,1,1,simulasi
+2026-10-25 12:22:52,2026-10-25 12:23:56,Air Mineral Sedang,1,2,simulasi
+2026-10-25 12:29:31,2026-10-25 12:30:49,Gohu,1,0,simulasi
+2026-10-25 12:30:18,2026-10-25 12:31:33,Es Kacang,1,1,simulasi
+2026-10-25 12:35:00,2026-10-25 12:41:30,Nasi Goreng Telur,1,0,simulasi
+2026-10-25 12:36:44,2026-10-25 12:40:04,Gohu,1,1,simulasi
+2026-10-25 12:41:37,2026-10-25 12:48:12,Nasi Goreng Telur,1,0,simulasi
+2026-10-25 12:43:40,2026-10-25 12:47:12,Nasi Tempe Penyet,1,1,simulasi
+2026-10-25 12:47:05,2026-10-25 12:48:38,Es Kepal,1,2,simulasi
+2026-10-25 12:55:15,2026-10-25 12:59:00,Indomie Kuah Single,1,0,simulasi
+2026-10-25 12:57:32,2026-10-25 13:02:29,Pisang Goroho Tepung,1,1,simulasi
+2026-10-25 12:57:56,2026-10-25 12:59:48,Nasi Tempe Penyet,1,2,simulasi
+2026-10-25 12:58:32,2026-10-25 13:03:05,Nasi Campur Ikan,1,3,simulasi
+2026-10-25 12:59:02,2026-10-25 13:05:47,Pisang Goroho Stik,1,3,simulasi
+2026-10-25 13:08:23,2026-10-25 13:15:02,Tahu Isi,3,0,simulasi
+2026-10-25 13:08:50,2026-10-25 13:13:45,Nasi Campur Ikan,1,1,simulasi
+2026-10-25 13:08:53,2026-10-25 13:10:46,Pisang Goroho Tepung,1,2,simulasi
+2026-10-25 13:11:03,2026-10-25 13:14:30,Pisang Goroho Tepung,1,2,simulasi
+2026-10-25 13:12:42,2026-10-25 13:17:18,Nasi Ayam Geprek,1,3,simulasi
+2026-10-25 13:21:52,2026-10-25 13:22:42,Air Mineral Kecil,2,0,simulasi
+2026-10-25 13:22:08,2026-10-25 13:26:51,Indomie Goreng Double,1,1,simulasi
+2026-10-25 13:24:53,2026-10-25 13:29:13,Pisang Coklat Keju,2,1,simulasi
+2026-10-25 13:25:21,2026-10-25 13:28:55,Nasi Ayam Geprek,2,2,simulasi
+2026-10-25 13:42:26,2026-10-25 13:48:37,Pisang Spatu,1,0,simulasi
+2026-10-25 13:53:20,2026-10-25 13:54:26,Air Mineral Besar,1,0,simulasi
+2026-10-25 14:12:06,2026-10-25 14:18:19,Indomie Kuah Double,1,0,simulasi
+2026-10-25 14:31:24,2026-10-25 14:39:52,Nasi Goreng Telur,2,0,simulasi
+2026-10-25 14:35:44,2026-10-25 14:36:39,Air Mineral Besar,1,1,simulasi
+2026-10-25 14:42:59,2026-10-25 14:48:16,Nasi Goreng Ayam,1,0,simulasi
+2026-10-26 10:09:09,2026-10-26 10:15:45,Tahu Isi,1,0,simulasi
+2026-10-26 10:33:01,2026-10-26 10:41:26,Nasi Goreng Ayam,1,0,simulasi
+2026-10-26 10:58:26,2026-10-26 10:59:31,Air Mineral Kecil,3,0,simulasi
+2026-10-26 11:04:47,2026-10-26 11:15:03,Mie Goreng Cakalang,2,0,simulasi
+2026-10-26 11:20:26,2026-10-26 11:25:21,Mie Goreng Cakalang,1,0,simulasi
+2026-10-26 11:26:51,2026-10-26 11:31:23,Nasi Campur Ikan,1,0,simulasi
+2026-10-26 11:28:06,2026-10-26 11:29:18,Air Mineral Kecil,1,1,simulasi
+2026-10-26 11:30:53,2026-10-26 11:36:08,Pisang Coklat Keju,1,1,simulasi
+2026-10-26 11:31:10,2026-10-26 11:34:17,Gohu,1,2,simulasi
+2026-10-26 11:33:13,2026-10-26 11:43:41,Nasi Goreng Cakalang,1,2,simulasi
+2026-10-26 11:45:53,2026-10-26 11:55:11,Indomie Kuah Single,1,0,simulasi
+2026-10-26 11:47:11,2026-10-26 11:52:09,Pisang Goroho Stik,3,1,simulasi
+2026-10-26 11:47:55,2026-10-26 11:55:31,Tinutuan & Miedal,1,2,simulasi
+2026-10-26 11:49:51,2026-10-26 11:58:27,Indomie Goreng Single,1,3,simulasi
+2026-10-26 11:55:55,2026-10-26 11:58:36,Gohu,1,1,simulasi
+2026-10-26 11:56:18,2026-10-26 12:06:51,Indomie Kuah Single,3,2,simulasi
+2026-10-26 12:04:58,2026-10-26 12:09:16,Tahu Isi,1,1,simulasi
+2026-10-26 12:05:32,2026-10-26 12:13:59,Tinutuan & Miedal,3,2,simulasi
+2026-10-26 12:06:06,2026-10-26 12:17:56,Nasi Campur Ayam,3,3,simulasi
+2026-10-26 12:07:31,2026-10-26 12:15:09,Nasi Campur Ikan,2,3,simulasi
+2026-10-26 12:11:12,2026-10-26 12:16:41,Pisang Goroho Stik,1,3,simulasi
+2026-10-26 12:15:05,2026-10-26 12:22:50,Nasi Ayam Geprek,1,3,simulasi
+2026-10-26 12:15:32,2026-10-26 12:23:33,Nasi Goreng Ayam,1,3,simulasi
+2026-10-26 12:23:02,2026-10-26 12:34:02,Nasi Goreng Roa,1,1,simulasi
+2026-10-26 12:23:53,2026-10-26 12:26:25,Tinutuan & Miedal,1,1,simulasi
+2026-10-26 12:30:45,2026-10-26 12:38:24,Pisang Spatu,2,1,simulasi
+2026-10-26 12:33:12,2026-10-26 12:34:30,Air Mineral Kecil,1,2,simulasi
+2026-10-26 12:35:59,2026-10-26 12:40:10,Es Kepal,2,1,simulasi
+2026-10-26 12:41:50,2026-10-26 12:50:02,Nasi Goreng Roa,1,0,simulasi
+2026-10-26 12:53:53,2026-10-26 13:02:33,Nasi Goreng Telur,1,0,simulasi
+2026-10-26 12:57:24,2026-10-26 13:01:29,Nasi Ayam Geprek,1,1,simulasi
+2026-10-26 13:01:10,2026-10-26 13:04:44,Nasi Campur Ayam,1,2,simulasi
+2026-10-26 13:02:48,2026-10-26 13:06:13,Es Kepal,1,1,simulasi
+2026-10-26 13:03:05,2026-10-26 13:10:27,Pisang Coklat Keju,2,2,simulasi
+2026-10-26 13:10:01,2026-10-26 13:16:18,Nasi Ayam Geprek,2,1,simulasi
+2026-10-26 13:13:21,2026-10-26 13:15:35,Gohu,2,1,simulasi
+2026-10-26 13:16:34,2026-10-26 13:23:36,Tahu Isi,2,0,simulasi
+2026-10-26 13:39:07,2026-10-26 13:45:22,Nasi Campur Ayam,3,0,simulasi
+2026-10-26 13:48:47,2026-10-26 13:53:36,Tempe Goreng,1,0,simulasi
+2026-10-26 14:14:46,2026-10-26 14:16:18,Es Kepal,2,0,simulasi
+2026-10-27 10:39:18,2026-10-27 10:49:01,Indomie Kuah Single,4,0,simulasi
+2026-10-27 10:51:53,2026-10-27 10:55:52,Es Kacang,1,0,simulasi
+2026-10-27 10:53:10,2026-10-27 11:00:46,Mie Goreng Cakalang,1,1,simulasi
+2026-10-27 10:56:03,2026-10-27 10:58:45,Nasi Campur Ayam,1,1,simulasi
+2026-10-27 10:58:08,2026-10-27 11:03:52,Nasi Tempe Penyet,1,2,simulasi
+2026-10-27 11:03:14,2026-10-27 11:06:45,Es Cendeol,1,1,simulasi
+2026-10-27 11:03:21,2026-10-27 11:07:57,Pisang Goroho Tepung,1,2,simulasi
+2026-10-27 11:04:24,2026-10-27 11:09:05,Es Cendeol,2,2,simulasi
+2026-10-27 11:09:53,2026-10-27 11:10:38,Air Mineral Kecil,1,0,simulasi
+2026-10-27 11:16:45,2026-10-27 11:17:42,Air Mineral Kecil,1,0,simulasi
+2026-10-27 11:20:53,2026-10-27 11:29:09,Nasi Tempe Penyet,2,0,simulasi
+2026-10-27 11:21:30,2026-10-27 11:27:44,Tahu Isi,1,1,simulasi
+2026-10-27 11:32:51,2026-10-27 11:34:16,Air Mineral Besar,1,0,simulasi
+2026-10-27 11:37:47,2026-10-27 11:42:16,Nasi Goreng Ayam,1,0,simulasi
+2026-10-27 11:38:22,2026-10-27 11:44:53,Pisang Goroho Stik,1,1,simulasi
+2026-10-27 11:45:57,2026-10-27 12:01:52,Nasi Goreng Ayam,4,0,simulasi
+2026-10-27 11:48:53,2026-10-27 11:57:33,Nasi Goreng Roa,2,1,simulasi
+2026-10-27 11:50:12,2026-10-27 11:58:38,Air Mineral Sedang,1,2,simulasi
+2026-10-27 11:51:54,2026-10-27 12:00:35,Kolak Kacang Ijo,1,3,simulasi
+2026-10-27 11:52:13,2026-10-27 12:05:49,Nasi Ayam Geprek,1,4,simulasi
+2026-10-27 12:00:07,2026-10-27 12:04:37,Pisang Goroho Tepung,1,3,simulasi
+2026-10-27 12:01:08,2026-10-27 12:11:20,Tempe Goreng,1,3,simulasi
+2026-10-27 12:04:40,2026-10-27 12:10:17,Gohu,2,2,simulasi
+2026-10-27 12:10:53,2026-10-27 12:12:59,Pisang Goroho Tepung,1,1,simulasi
+2026-10-27 12:16:27,2026-10-27 12:25:10,Tempe Goreng,3,0,simulasi
+2026-10-27 12:21:29,2026-10-27 12:33:30,Nasi Goreng Ayam,2,1,simulasi
+2026-10-27 12:23:00,2026-10-27 12:34:54,Indomie Kuah Double,1,2,simulasi
+2026-10-27 12:24:40,2026-10-27 12:42:03,Mie Kuah Cakalang,1,3,simulasi
+2026-10-27 12:25:24,2026-10-27 12:37:19,Tempe Goreng,1,3,simulasi
+2026-10-27 12:25:59,2026-10-27 12:41:46,Pisang Goroho Tepung,4,4,simulasi
+2026-10-27 12:27:59,2026-10-27 12:47:28,Mie Goreng Cakalang,1,5,simulasi
+2026-10-27 12:29:24,2026-10-27 12:51:36,Mie Kuah Cakalang,2,6,simulasi
+2026-10-27 12:31:53,2026-10-27 12:49:42,Tempe Goreng,1,7,simulasi
+2026-10-27 12:32:16,2026-10-27 12:55:32,Nasi Tempe Penyet,1,8,simulasi
+2026-10-27 12:41:24,2026-10-27 12:57:49,Nasi Goreng Ayam,1,6,simulasi
+2026-10-27 12:41:46,2026-10-27 12:59:43,Tempe Goreng,2,6,simulasi
+2026-10-27 12:43:14,2026-10-27 13:03:18,Indomie Kuah Double,2,6,simulasi
+2026-10-27 12:48:13,2026-10-27 13:06:47,Nasi Goreng Cakalang,1,6,simulasi
+2026-10-27 12:52:21,2026-10-27 13:05:06,Gohu,2,5,simulasi
+2026-10-27 12:52:55,2026-10-27 13:12:52,Nasi Tempe Penyet,3,6,simulasi
+2026-10-27 13:07:29,2026-10-27 13:08:21,Air Mineral Kecil,1,1,simulasi
+2026-10-27 13:10:18,2026-10-27 13:16:47,Pisang Goroho Stik,2,1,simulasi
+2026-10-27 13:14:27,2026-10-27 13:15:56,Es Kepal,1,1,simulasi
+2026-10-27 13:20:54,2026-10-27 13:30:27,Indomie Goreng Double,1,0,simulasi
+2026-10-27 13:34:45,2026-10-27 13:36:03,Gohu,1,0,simulasi
+2026-10-27 13:38:15,2026-10-27 13:42:49,Pisang Goroho Tepung,1,0,simulasi
+2026-10-27 13:45:49,2026-10-27 13:48:54,Es Cendeol,1,0,simulasi
+2026-10-27 14:18:31,2026-10-27 14:20:13,Es Kacang,1,0,simulasi
+2026-10-27 14:50:29,2026-10-27 14:57:35,Mie Kuah Cakalang,1,0,simulasi
+2026-10-27 14:52:01,2026-10-27 14:55:25,Pisang Spatu,1,1,simulasi
+2026-10-27 14:56:32,2026-10-27 15:00:37,Kolak Kacang Ijo,1,1,simulasi
+2026-10-28 09:33:52,2026-10-28 09:39:37,Nasi Campur Ayam,1,0,simulasi
+2026-10-28 09:34:45,2026-10-28 09:41:04,Pisang Coklat Keju,1,1,simulasi
+2026-10-28 09:42:45,2026-10-28 09:48:05,Nasi Campur Ayam,4,0,simulasi
+2026-10-28 10:18:29,2026-10-28 10:24:34,Indomie Kuah Single,1,0,simulasi
+2026-10-28 10:36:16,2026-10-28 10:38:11,Es Cendeol,1,0,simulasi
+2026-10-28 10:52:20,2026-10-28 10:58:43,Pisang Goroho Stik,1,0,simulasi
+2026-10-28 10:54:15,2026-10-28 10:57:33,Gohu,1,1,simulasi
+2026-10-28 10:54:57,2026-10-28 11:02:57,Tempe Goreng,1,2,simulasi
+2026-10-28 11:09:27,2026-10-28 11:15:53,Nasi Campur Ikan,1,0,simulasi
+2026-10-28 11:13:03,2026-10-28 11:18:32,Nasi Ayam Geprek,1,1,simulasi
+2026-10-28 11:14:04,2026-10-28 11:19:50,Pisang Goroho Stik,1,2,simulasi
+2026-10-28 11:14:39,2026-10-28 11:29:15,Indomie Kuah Single,4,3,simulasi
+2026-10-28 11:16:25,2026-10-28 11:27:03,Indomie Goreng Double,1,3,simulasi
+2026-10-28 11:21:38,2026-10-28 11:29:01,Kolak Kacang Ijo,1,2,simulasi
+2026-10-28 11:28:35,2026-10-28 11:35:27,Mie Goreng Cakalang,2,2,simulasi
+2026-10-28 11:32:22,2026-10-28 11:33:27,Air Mineral Kecil,1,1,simulasi
+2026-10-28 11:41:31,2026-10-28 11:43:00,Air Mineral Kecil,1,0,simulasi
+2026-10-28 11:42:06,2026-10-28 11:49:43,Mie Goreng Cakalang,1,1,simulasi
+2026-10-28 11:52:23,2026-10-28 11:57:43,Pisang Goroho Stik,1,0,simulasi
+2026-10-28 11:52:46,2026-10-28 11:56:17,Tinutuan & Miedal,1,1,simulasi
+2026-10-28 11:54:12,2026-10-28 11:57:01,Air Mineral Kecil,1,2,simulasi
+2026-10-28 11:57:32,2026-10-28 12:02:09,Tinutuan & Miedal,1,1,simulasi
+2026-10-28 11:59:43,2026-10-28 12:10:10,Tahu Isi,3,1,simulasi
+2026-10-28 12:01:07,2026-10-28 12:03:45,Air Mineral Kecil,1,2,simulasi
+2026-10-28 12:02:42,2026-10-28 12:07:20,Es Cendeol,3,2,simulasi
+2026-10-28 12:07:07,2026-10-28 12:12:09,Pisang Spatu,2,2,simulasi
+2026-10-28 12:07:55,2026-10-28 12:13:12,Pisang Goroho Tepung,1,2,simulasi
+2026-10-28 12:08:34,2026-10-28 12:17:09,Pisang Goroho Stik,1,3,simulasi
+2026-10-28 12:16:36,2026-10-28 12:21:13,Nasi Goreng Telur,1,1,simulasi
+2026-10-28 12:20:21,2026-10-28 12:27:04,Indomie Goreng Single,1,1,simulasi
+2026-10-28 12:21:48,2026-10-28 12:33:54,Indomie Goreng Single,2,1,simulasi
+2026-10-28 12:24:56,2026-10-28 12:28:39,Air Mineral Sedang,1,2,simulasi
+2026-10-28 12:25:00,2026-10-28 12:38:48,Indomie Goreng Double,1,3,simulasi
+2026-10-28 12:26:00,2026-10-28 12:45:01,Indomie Kuah Double,2,4,simulasi
+2026-10-28 12:29:34,2026-10-28 12:46:09,Pisang Goroho Tepung,2,3,simulasi
+2026-10-28 12:32:30,2026-10-28 12:52:40,Pisang Spatu,2,4,simulasi
+2026-10-28 12:39:12,2026-10-28 12:51:42,Nasi Campur Ayam,1,3,simulasi
+2026-10-28 12:45:48,2026-10-28 12:56:00,Es Kacang,2,3,simulasi
+2026-10-28 12:52:39,2026-10-28 13:05:10,Nasi Goreng Telur,2,2,simulasi
+2026-10-28 12:54:27,2026-10-28 12:59:52,Pisang Goroho Tepung,3,2,simulasi
+2026-10-28 12:55:13,2026-10-28 13:06:11,Indomie Kuah Double,1,3,simulasi
+2026-10-28 12:58:39,2026-10-28 13:08:14,Kolak Kacang Ijo,1,3,simulasi
+2026-10-28 12:58:40,2026-10-28 13:18:53,Nasi Goreng Roa,2,4,simulasi
+2026-10-28 13:06:10,2026-10-28 13:10:55,Tinutuan & Miedal,1,3,simulasi
+2026-10-28 13:08:48,2026-10-28 13:18:02,Nasi Campur Ikan,1,2,simulasi
+2026-10-28 13:12:02,2026-10-28 13:22:36,Indomie Kuah Double,1,2,simulasi
+2026-10-28 13:14:56,2026-10-28 13:24:59,Pisang Goroho Stik,1,3,simulasi
+2026-10-28 13:19:59,2026-10-28 13:29:54,Pisang Spatu,1,2,simulasi
+2026-10-28 13:35:53,2026-10-28 13:42:27,Pisang Goroho Tepung,1,0,simulasi
+2026-10-28 13:53:36,2026-10-28 13:58:06,Kolak Kacang Ijo,3,0,simulasi
+2026-10-28 14:06:56,2026-10-28 14:09:22,Pisang Goroho Stik,1,0,simulasi
+2026-10-28 14:16:42,2026-10-28 14:19:07,Nasi Ayam Geprek,1,0,simulasi
+2026-10-28 14:34:00,2026-10-28 14:40:18,Nasi Tempe Penyet,3,0,simulasi
+2026-10-28 14:34:24,2026-10-28 14:38:42,Es Cendeol,1,1,simulasi
+2026-10-28 14:38:18,2026-10-28 14:42:22,Pisang Coklat Keju,1,2,simulasi
+2026-10-28 14:44:03,2026-10-28 14:46:28,Gohu,1,0,simulasi
+2026-10-29 09:10:59,2026-10-29 09:15:45,Nasi Ayam Geprek,2,0,simulasi
+2026-10-29 09:35:03,2026-10-29 09:39:32,Nasi Tempe Penyet,1,0,simulasi
+2026-10-29 09:39:27,2026-10-29 09:43:25,Gohu,1,1,simulasi
+2026-10-29 10:23:10,2026-10-29 10:33:48,Nasi Goreng Roa,1,0,simulasi
+2026-10-29 10:25:18,2026-10-29 10:35:30,Nasi Goreng Cakalang,1,1,simulasi
+2026-10-29 10:49:45,2026-10-29 10:54:34,Indomie Goreng Double,1,0,simulasi
+2026-10-29 10:55:25,2026-10-29 11:02:56,Nasi Goreng Telur,1,0,simulasi
+2026-10-29 10:56:27,2026-10-29 11:02:58,Indomie Kuah Double,1,1,simulasi
+2026-10-29 10:57:38,2026-10-29 11:05:47,Es Palu Butung,1,2,simulasi
+2026-10-29 11:07:33,2026-10-29 11:18:24,Indomie Kuah Double,1,0,simulasi
+2026-10-29 11:08:05,2026-10-29 11:14:19,Pisang Coklat Keju,1,1,simulasi
+2026-10-29 11:08:57,2026-10-29 11:23:33,Nasi Goreng Cakalang,1,2,simulasi
+2026-10-29 11:10:54,2026-10-29 11:29:19,Indomie Goreng Single,1,3,simulasi
+2026-10-29 11:12:34,2026-10-29 11:32:50,Mie Goreng Cakalang,1,4,simulasi
+2026-10-29 11:19:45,2026-10-29 11:48:16,Indomie Kuah Double,4,3,simulasi
+2026-10-29 11:20:13,2026-10-29 11:35:47,Es Kepal,1,4,simulasi
+2026-10-29 11:22:06,2026-10-29 11:40:12,Es Kacang,1,5,simulasi
+2026-10-29 11:23:06,2026-10-29 11:42:02,Air Mineral Besar,3,6,simulasi
+2026-10-29 11:24:24,2026-10-29 11:46:55,Mie Goreng Cakalang,1,6,simulasi
+2026-10-29 11:24:29,2026-10-29 11:55:06,Indomie Kuah Double,1,7,simulasi
+2026-10-29 11:26:30,2026-10-29 11:49:38,Air Mineral Sedang,1,8,simulasi
+2026-10-29 11:28:25,2026-10-29 12:03:25,Indomie Goreng Single,3,9,simulasi
+2026-10-29 11:30:07,2026-10-29 12:06:15,Tinutuan & Miedal,3,9,simulasi
+2026-10-29 11:31:00,2026-10-29 12:06:30,Tahu Isi,1,10,simulasi
+2026-10-29 11:31:42,2026-10-29 12:13:46,Pisang Coklat Keju,1,11,simulasi
+2026-10-29 11:32:34,2026-10-29 12:12:09,Nasi Goreng Roa,1,12,simulasi
+2026-10-29 11:37:57,2026-10-29 12:13:40,Air Mineral Kecil,1,11,simulasi
+2026-10-29 11:38:03,2026-10-29 12:23:48,Indomie Kuah Double,1,12,simulasi
+2026-10-29 11:40:06,2026-10-29 12:21:21,Nasi Tempe Penyet,2,13,simulasi
+2026-10-29 11:43:25,2026-10-29 12:21:55,Air Mineral Besar,1,12,simulasi
+2026-10-29 11:43:54,2026-10-29 12:31:26,Nasi Goreng Cakalang,2,13,simulasi
+2026-10-29 11:44:14,2026-10-29 12:34:24,Nasi Goreng Cakalang,3,14,simulasi
+2026-10-29 11:45:44,2026-10-29 12:34:42,Tempe Goreng,1,15,simulasi
+2026-10-29 11:46:09,2026-10-29 12:38:28,Es Kacang,3,16,simulasi
+2026-10-29 11:53:09,2026-10-29 12:44:10,Nasi Goreng Cakalang,2,14,simulasi
+2026-10-29 12:01:47,2026-10-29 12:45:57,Pisang Coklat Keju,1,14,simulasi
+2026-10-29 12:03:55,2026-10-29 12:44:38,Air Mineral Sedang,1,14,simulasi
+2026-10-29 12:04:21,2026-10-29 12:51:30,Indomie Goreng Double,1,15,simulasi
+2026-10-29 12:08:42,2026-10-29 12:50:13,Es Kepal,1,14,simulasi
+2026-10-29 12:10:07,2026-10-29 12:54:58,Nasi Campur Ikan,2,15,simulasi
+2026-10-29 12:10:31,2026-10-29 13:04:21,Nasi Goreng Ayam,2,16,simulasi
+2026-10-29 12:10:37,2026-10-29 13:04:40,Indomie Goreng Single,1,17,simulasi
+2026-10-29 12:12:41,2026-10-29 13:08:25,Es Kacang,1,17,simulasi
+2026-10-29 12:12:42,2026-10-29 13:10:39,Nasi Goreng Cakalang,1,18,simulasi
+2026-10-29 12:16:50,2026-10-29 13:15:08,Nasi Campur Ikan,1,17,simulasi
+2026-10-29 12:17:16,2026-10-29 13:18:36,Nasi Goreng Telur,1,18,simulasi
+2026-10-29 12:23:57,2026-10-29 13:18:48,Tinutuan & Miedal,2,16,simulasi
+2026-10-29 12:28:58,2026-10-29 13:27:54,Mie Goreng Cakalang,1,17,simulasi
+2026-10-29 12:36:10,2026-10-29 13:26:10,Indomie Kuah Double,1,15,simulasi
+2026-10-29 12:39:59,2026-10-29 13:30:29,Es Cendeol,1,15,simulasi
+2026-10-29 12:40:19,2026-10-29 13:33:16,Es Palu Butung,2,16,simulasi
+2026-10-29 12:50:38,2026-10-29 13:34:13,Tahu Isi,1,13,simulasi
+2026-10-29 12:51:01,2026-10-29 13:41:23,Tempe Goreng,3,14,simulasi
+2026-10-29 12:54:48,2026-10-29 13:37:52,Pisang Goroho Tepung,1,14,simulasi
+2026-10-29 12:59:48,2026-10-29 13:48:26,Indomie Kuah Double,2,14,simulasi
+2026-10-29 13:06:27,2026-10-29 13:49:01,Nasi Campur Ikan,1,13,simulasi
+2026-10-29 13:17:14,2026-10-29 13:55:43,Nasi Goreng Cakalang,1,11,simulasi
+2026-10-29 13:27:21,2026-10-29 13:54:42,Tinutuan & Miedal,1,9,simulasi
+2026-10-29 13:31:00,2026-10-29 13:59:38,Nasi Ayam Geprek,1,8,simulasi
+2026-10-29 13:58:31,2026-10-29 14:06:12,Indomie Goreng Single,1,1,simulasi
+2026-10-29 14:17:46,2026-10-29 14:22:43,Pisang Goroho Tepung,3,0,simulasi
+2026-10-30 10:01:01,2026-10-30 10:01:58,Air Mineral Kecil,1,0,simulasi
+2026-10-30 10:02:03,2026-10-30 10:05:08,Es Kepal,1,0,simulasi
+2026-10-30 10:20:04,2026-10-30 10:21:29,Gohu,1,0,simulasi
+2026-10-30 10:32:25,2026-10-30 10:35:04,Tahu Isi,2,0,simulasi
+2026-10-30 10:52:00,2026-10-30 10:56:23,Es Palu Butung,2,0,simulasi
+2026-10-30 11:00:15,2026-10-30 11:06:50,Indomie Goreng Double,1,0,simulasi
+2026-10-30 11:06:00,2026-10-30 11:12:55,Indomie Goreng Double,1,1,simulasi
+2026-10-30 11:08:17,2026-10-30 11:08:45,Air Mineral Sedang,1,1,simulasi
+2026-10-30 11:19:08,2026-10-30 11:29:53,Indomie Kuah Double,3,0,simulasi
+2026-10-30 11:23:48,2026-10-30 11:26:37,Nasi Tempe Penyet,1,1,simulasi
+2026-10-30 11:26:47,2026-10-30 11:30:55,Nasi Ayam Geprek,1,1,simulasi
+2026-10-30 11:31:16,2026-10-30 11:33:31,Es Kacang,1,0,simulasi
+2026-10-30 11:35:05,2026-10-30 11:39:42,Pisang Goroho Stik,1,0,simulasi
+2026-10-30 11:38:08,2026-10-30 11:48:38,Mie Goreng Cakalang,2,1,simulasi
+2026-10-30 11:40:27,2026-10-30 11:41:00,Air Mineral Kecil,1,1,simulasi
+2026-10-30 11:41:15,2026-10-30 11:44:43,Tempe Goreng,1,1,simulasi
+2026-10-30 11:43:47,2026-10-30 11:49:09,Nasi Goreng Roa,1,2,simulasi
+2026-10-30 11:47:01,2026-10-30 11:49:49,Air Mineral Kecil,1,2,simulasi
+2026-10-30 11:47:56,2026-10-30 11:53:18,Tinutuan & Miedal,1,3,simulasi
+2026-10-30 11:48:42,2026-10-30 11:57:48,Nasi Goreng Telur,1,3,simulasi
+2026-10-30 11:49:42,2026-10-30 11:57:41,Nasi Goreng Ayam,1,3,simulasi
+2026-10-30 11:53:38,2026-10-30 12:03:14,Nasi Goreng Ayam,1,2,simulasi
+2026-10-30 11:58:36,2026-10-30 12:04:53,Indomie Goreng Double,1,1,simulasi
+2026-10-30 12:03:20,2026-10-30 12:05:18,Nasi Campur Ikan,1,1,simulasi
+2026-10-30 12:06:20,2026-10-30 12:08:18,Pisang Spatu,1,0,simulasi
+2026-10-30 12:12:02,2026-10-30 12:15:16,Es Palu Butung,2,0,simulasi
+2026-10-30 12:16:52,2026-10-30 12:24:17,Pisang Goroho Tepung,2,0,simulasi
+2026-10-30 12:19:37,2026-10-30 12:23:27,Es Cendeol,3,1,simulasi
+2026-10-30 12:20:01,2026-10-30 12:24:53,Kolak Kacang Ijo,1,2,simulasi
+2026-10-30 12:23:07,2026-10-30 12:30:14,Nasi Campur Ikan,1,3,simulasi
+2026-10-30 12:29:54,2026-10-30 12:32:28,Es Kacang,1,1,simulasi
+2026-10-30 12:29:58,2026-10-30 12:34:41,Nasi Ayam Geprek,2,2,simulasi
+2026-10-30 12:30:21,2026-10-30 12:38:03,Indomie Kuah Double,3,2,simulasi
+2026-10-30 12:35:59,2026-10-30 12:41:23,Indomie Kuah Double,1,1,simulasi
+2026-10-30 12:37:57,2026-10-30 12:43:00,Mie Goreng Cakalang,2,2,simulasi
+2026-10-30 12:38:06,2026-10-30 12:49:15,Mie Kuah Cakalang,1,2,simulasi
+2026-10-30 12:39:08,2026-10-30 12:46:11,Tinutuan & Miedal,1,3,simulasi
+2026-10-30 12:42:02,2026-10-30 12:52:06,Indomie Goreng Double,1,3,simulasi
+2026-10-30 12:42:26,2026-10-30 12:52:04,Es Cendeol,2,4,simulasi
+2026-10-30 12:58:48,2026-10-30 13:08:23,Pisang Goroho Stik,4,0,simulasi
+2026-10-30 12:59:54,2026-10-30 13:01:06,Air Mineral Besar,1,1,simulasi
+2026-10-30 13:09:59,2026-10-30 13:10:22,Air Mineral Sedang,1,0,simulasi
+2026-10-30 13:10:24,2026-10-30 13:16:18,Nasi Ayam Geprek,1,0,simulasi
+2026-10-30 13:12:32,2026-10-30 13:20:19,Indomie Goreng Single,1,1,simulasi
+2026-10-30 13:18:18,2026-10-30 13:19:22,Es Kepal,1,1,simulasi
+2026-10-30 13:24:02,2026-10-30 13:27:43,Tempe Goreng,2,0,simulasi
+2026-10-30 13:31:45,2026-10-30 13:42:15,Indomie Kuah Single,2,0,simulasi
+2026-10-30 13:51:59,2026-10-30 13:58:03,Nasi Ayam Geprek,1,0,simulasi
+2026-10-30 14:33:34,2026-10-30 14:35:44,Es Cendeol,1,0,simulasi

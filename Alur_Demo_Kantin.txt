@@ -1,0 +1,138 @@
+ALUR DEMO & PRESENTASI - KANTIN U'KITCHEN JASMINE
+(Prediksi Waktu Tunggu & Pemantauan Antrean Menggunakan Random Forest Regression)
+================================================================================
+
+PERSIAPAN (sebelum maju presentasi)
+-----------------------------------
+1. Buka folder: Machine Learning\Final\outputs\kantin-mvp
+2. Klik dua kali jalankan.bat (lingkungan .venv sudah disiapkan, server langsung jalan).
+3. Tunggu sampai muncul "http://127.0.0.1:5000", lalu JANGAN tutup jendela terminalnya.
+4. Siapkan 3 tab browser:
+   - Tab 1: http://127.0.0.1:5000        (halaman pembeli - 30 menu asli U'Kitchen Jasmine)
+   - Tab 2: http://127.0.0.1:5000/petugas (halaman petugas, login: admin / kantin123)
+   - Tab 3: http://127.0.0.1:5000/papan   (papan publik)
+5. Buka slide presentasi: Machine Learning\Final\Presentasi_ML_Kantin_UKitchen_Jasmine.pptx
+   (aktifkan Presenter View agar catatan presenter/speaker notes terlihat).
+
+
+1. MASALAH & WAWANCARA PIHAK KANTIN (1 menit)
+---------------------------------------------
+Ucapkan:
+"Di Kantin U'Kitchen Jasmine, pembeli belum tahu perkiraan waktu siap pesanan dan
+belum ada papan antrean publik, sehingga sering menumpuk di loket atau bolak-balik
+bertanya. Kantin belum memiliki CCTV dan belum ada riwayat pencatatan durasi
+pesanan digital, namun kami sudah memperoleh izin implementasi dan daftar 30 menu
+asli kantin.
+
+Dari wawancara langsung dengan petugas kantin, kami mendapat tiga temuan lapangan:
+(1) cepat-lambatnya pesanan paling bergantung pada apakah bahan sudah ready atau
+belum, (2) lama memasak tiap menu berbeda — menu berbahan ikan paling lama, dan
+(3) jumlah petugas bekerja, jam ramai sekitar pukul 12, serta ketersediaan bahan
+dapat memicu keterlambatan."
+
+
+2. SOLUSI & DUA ALUR WORKFLOW (2 menit)
+---------------------------------------
+Ucapkan:
+"Kami membangun prototipe web lokal (Python, Flask, SQLite, React, scikit-learn)
+dengan dua alur workflow:
+
+Pertama, Workflow Operasional: Pembeli pilih menu -> Sistem simpan pesanan dan
+memotret kondisi antrean aktif saat itu (snapshot_json) -> Model Random Forest
+menghitung Estimasi Awal -> Petugas mengubah status Menunggu -> Diproses -> Siap
+-> Selesai -> Nomor tampil otomatis di papan publik saat Siap dan hilang saat
+Selesai. Jika model tidak tersedia, pesanan tetap dicatat dengan aman.
+
+Kedua, Workflow Data & Model ML di notebook Kaggle: 1.526 pesanan simulasi dari
+30 menu asli -> validasi & pembersihan -> bentuk target Y (waktu_siap - waktu_pesan)
+dan 5 fitur X saat pesanan masuk (menu, jumlah, antrean_di_depan, jam_pesan,
+hari_pesan) -> pembagian kronologis 70% latih (1.068), 15% validasi (229), 15%
+uji (229) dengan penyaringan batas periode anti data leakage -> One-Hot Encoding
+menu dipelajari hanya dari data latih -> pilih min_samples_leaf (2 vs 5, terpilih 2
+dengan MAE validasi 1,76 menit) -> latih ulang pada latih+validasi -> uji semua
+metode pada data uji yang sama."
+
+
+3. HASIL & MENONJOLKAN MODEL RANDOM FOREST (2,5 menit)
+------------------------------------------------------
+Tampilkan tabel hasil Kaggle pada 229 data uji simulasi:
+- Linear Regression : MAE 5,01 menit | RMSE 8,20 menit
+- Random Forest     : MAE 6,14 menit | RMSE 11,38 menit  (100 pohon, min_samples_leaf=2)
+- Baseline Median   : MAE 10,17 menit | RMSE 17,61 menit
+
+Ucapkan:
+"Algoritma utama yang kami bangun adalah Random Forest Regression (100 pohon
+keputusan dengan bootstrap sampling; parameter aktual di kode memakai default
+scikit-learn max_features=1.0). Random Forest memangkas MAE hampir 40% dibanding
+baseline Median.
+
+Mengapa di skor total Linear Regression lebih rendah? Dari error analysis data uji:
+- Pada 196 dari 229 pesanan uji yang antreannya masih dalam rentang latih
+  (antrean <= 10), Random Forest sebenarnya LEBIH UNGGUL (MAE 2,54 vs 2,62 menit).
+- Namun pada 33 pesanan uji terakhir terjadi lonjakan simulasi hingga 18 antrean
+  (tunggu hingga 61,33 menit), padahal data latih maksimum hanya 10 antrean
+  (29,08 menit). Karena pohon keputusan tidak dapat mengekstrapolasi di atas nilai
+  target latih, prediksi Random Forest mentok di 24,52 menit, sedangkan Linear
+  Regression terus naik linear. Ini membuktikan pentingnya cakupan data jam puncak
+  saat pengumpulan data nyata nanti."
+
+
+4. DEMO LIVE APLIKASI - 3 TAB (2,5 menit)
+-----------------------------------------
+LANGKAH 1 - PEMBELI MEMESAN 2 PESANAN BERURUTAN (Tab 1)
+- Buat Pesanan #1: pilih 1 menu (1 porsi, antrean = 0), klik "Buat pesanan".
+- Tunjukkan nomor antrean (#1) dan kotak ESTIMASI AWAL (menit & perkiraan jam).
+- Klik "Kembali ke menu", buat Pesanan #2: pilih 3 porsi saat #1 masih Menunggu
+  (antrean di depan = 1), klik "Buat pesanan".
+Ucapkan:
+"Perhatikan estimasi awal otomatis naik saat jumlah porsi dan antrean di depan
+bertambah. Secara transparan kami sampaikan bahwa model di aplikasi ini adalah
+model demonstrasi sintetis terpisah (demo-sintetis-1) untuk menunjukkan integrasi
+end-to-end; di aplikasi demo ke-30 nama menu kantin masuk ke fitur menu_lain,
+sehingga perubahan live terutama dipicu jumlah porsi dan antrean aktif."
+
+- Tunjukkan halaman status yang diperbarui otomatis setiap 10 detik.
+
+LANGKAH 2 - PETUGAS MENGERJAKAN & MEREKAM TARGET Y (Tab 2)
+- Login sebagai petugas (admin / kantin123).
+- Perlihatkan daftar antrean berurutan (#1 dan #2).
+- Ubah status Pesanan #1: Menunggu -> Diproses -> Siap.
+Ucapkan:
+"Setiap kali petugas menekan Siap, SQLite otomatis mencatat waktu siap (siap_at).
+Digabung dengan potret antrean saat masuk (snapshot_json), aplikasi ini sekaligus
+menjadi fondasi pengumpulan data nyata kantin tanpa CCTV untuk retraining model."
+
+LANGKAH 3 - PAPAN PUBLIK & PENYERAHAN (Tab 3)
+- Buka Tab 3 (/papan): tunjukkan nomor #1 muncul otomatis (refresh tiap 10 detik).
+- Kembali ke Tab 2, tandai Pesanan #1 sebagai SELESAI.
+- Kembali ke Tab 3: tunjukkan nomor #1 otomatis hilang dari papan publik.
+
+
+5. BATASAN & JAWABAN PERTANYAAN DOSEN (WAJIB DISIAPKAN)
+-------------------------------------------------------
+- Batasan wajib disebut:
+  "Semua angka evaluasi (5,01 / 6,14 / 10,17 menit) berasal dari data simulasi,
+  bukan pengamatan kantin nyata. Kinerja di kantin sungguhan baru dapat dibuktikan
+  setelah data nyata dikumpulkan dan pengujian diulang."
+
+- Jika dosen bertanya soal tingkat kesulitan penyiapan pada variabel X:
+  "Saat ini tingkat kesulitan belum dipisahkan sebagai fitur X tersendiri; di
+  notebook perbedaannya baru diwakili oleh identitas menu lewat One-Hot Encoding.
+  Kategori proses statis (siap disajikan / dirakit / dimasak) harus didefinisikan
+  bersama petugas dan tidak menambah informasi independen dari nama menu. Sebaliknya,
+  dari wawancara petugas terungkap bahwa kesiapan bahan (ready atau belum) serta
+  jumlah petugas aktif bersifat dinamis walau nama menunya sama — variabel kondisi
+  saat pesanan masuk inilah yang kami usulkan dicatat pada fase data nyata lalu
+  dibandingkan pada partisi uji yang sama."
+
+- Jika dosen bertanya kenapa belum ada data lapangan nyata:
+  "Kantin belum memiliki CCTV maupun kasir digital yang mencatat jam pesan dan jam
+  siap. Dari lapangan kami telah mengambil izin, 30 menu asli, dan wawancara petugas;
+  data simulasi dipakai untuk menguji pipeline ML secara objektif, sementara aplikasi
+  ini dirancang untuk memecahkan cold-start agar data nyata dapat mulai terekam."
+
+- Cadangan jika ada kendala teknis saat demo:
+  - Jika estimasi bertuliskan "Belum tersedia": jelaskan itu mekanisme graceful
+    fallback (pesanan tetap tercatat walau model tidak tersedia).
+  - Jika browser tidak terbuka: pastikan terminal jalankan.bat tetap terbuka lalu
+    refresh browser.

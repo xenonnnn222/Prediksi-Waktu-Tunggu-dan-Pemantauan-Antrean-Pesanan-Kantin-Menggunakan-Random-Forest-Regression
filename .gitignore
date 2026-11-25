@@ -15,9 +15,11 @@ outputs/kantin-mvp/instance/*.sqlite3
 outputs/kantin-mvp/instance/*.sqlite3-*
 *.tmp
 
-# Arsip duplikat & catatan internal sesi
+# Arsip duplikat, catatan internal sesi, & file scratch lama di work/
 outputs/kantin-mvp.zip
 outputs/HANDOFF-CLAUDE-CODE.md
+work/*
+!work/simulate_canteen.py
 
 # OS & editor
 .DS_Store

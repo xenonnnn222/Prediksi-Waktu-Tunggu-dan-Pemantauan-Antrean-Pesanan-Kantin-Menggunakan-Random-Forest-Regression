@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="4" y="6" width="56" height="54" rx="16" fill="#2A1E17"/>
+  <rect x="4" y="2" width="56" height="54" rx="16" fill="#F25C2A" stroke="#2A1E17" stroke-width="3.5"/>
+  <circle cx="48" cy="14" r="5" fill="#FFD23F"/>
+  <text x="14" y="39" font-family="system-ui,sans-serif" font-size="25" font-weight="900" fill="#FFFDF7" letter-spacing="-1">U'J</text>
+</svg>

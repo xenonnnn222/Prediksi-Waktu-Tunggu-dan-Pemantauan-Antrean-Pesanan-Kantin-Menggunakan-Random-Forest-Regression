@@ -1,0 +1,26 @@
+# Python & virtual environment
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node.js dependencies (frontend/dist tetap disertakan agar jalankan.bat dapat jalan tanpa Node.js)
+node_modules/
+**/node_modules/
+
+# Database lokal & backup (dibuat otomatis oleh app.py saat pertama dijalankan)
+outputs/kantin-mvp/instance/*.sqlite3
+outputs/kantin-mvp/instance/*.sqlite3-*
+*.tmp
+
+# Arsip duplikat & catatan internal sesi
+outputs/kantin-mvp.zip
+outputs/HANDOFF-CLAUDE-CODE.md
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

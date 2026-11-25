@@ -1,7 +1,11 @@
 # Prediksi Waktu Tunggu dan Pemantauan Antrean Pesanan Kantin Menggunakan Random Forest Regression
 
 Tugas Akhir Mata Kuliah **Machine Learning** — Fakultas Ilmu Komputer, **Universitas Klabat**  
-**Mahasiswa:** Marcellyno Benhard Rotty  
+**Tim Penyusun:**
+- Marcellyno Benhard Rotty
+- Sharon Georgina Mailangkay
+- Edward Lucky Malombeke
+
 **Studi Kasus:** Kantin **U’Jasmine**
 
 > **Catatan repositori:** Repositori ini dipublikasikan pada tahap akhir sebagai kompilasi kode, eksperimen, dan dokumentasi dari pengembangan lokal. Riwayat progres bertahap terdokumentasi pada *ML Project Tracker* mata kuliah.
